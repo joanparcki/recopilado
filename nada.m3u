@@ -7,7 +7,13 @@ http://loga.ultratotal.ml/xls/champions/index.m3u8
 http://loga.ultratotal.ml/xls/dazzzmoto/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/63/27/53/3/5bf014400ee694c4083493d9-motogp-2019-dazn-precio-equipo-gps-abierto.jpeg" group-title="FUTBOL",FORMULA1
 http://loga.ultratotal.ml/xls/formulax/index.m3u8
-#EXTINF:-1 tvg-logo="https://telemetr.io/en/channels/1259879590/photo.jpeg" group-title="FUTBOL",GRUPO TELEGRAM T.ME/ULTRATOTAL
+#EXTINF:-1 tvg-logo="https://telemetr.io/en/channels/1259879590/photo.jpeg" group-title="GRUPO",T.ME/ULTRATOTAL
 http://loga.ultratotal.ml/xls/formulax/index.m3u8
-#EXTINF:-1 tvg-logo="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" group-title="HOLA",prueba
-http://49.12.242.115/xls/ligota/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="ENLACES VIP",M+LIGA VIP
+http://loga.ultratotal.ml/xls/ligota/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="ENLACES VIP",M+CHAMPIONS VIP
+http://loga.ultratotal.ml/xls/champions/index.m3u8
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025e-0fac62eb08cc-e6eec4b938a5-1000/ucl-breaking-news.jpg" group-title="ENLACES VIP",MOTOGP VIP
+http://loga.ultratotal.ml/xls/dazzzmoto/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2021/03/dazn-f1-logo.jpg" group-title="ENLACES VIP",FORMULA1 VIP
+http://loga.ultratotal.ml/xls/formulax/index.m3u8
