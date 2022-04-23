@@ -35,14 +35,14 @@
             "url": "http://loga.ultratotal.ml/xls/champions/index.m3u8"
         },
         {
-            "name": "motos",
+            "name": "motos HD",
             "image": "https://www.motociclismo.es/uploads/s1/63/27/53/3/5bf014400ee694c4083493d9-motogp-2019-dazn-precio-equipo-gps-abierto.jpeg",
-            "url": "http://loga.ultratotal.ml/xls/dazzzmoto/index.m3u8"
+            "url": "http://vip.ultratotal.ml/xls/daznmoto/index.m3u8"
         },
         {
-            "name": "formula 1️",
+            "name": "formula 1️ HD",
             "image": "https://s03.s3c.es/imag/_v0/770x420/3/0/c/aston-martin-arm21.jpg",
-            "url": "http://loga.ultratotal.ml/xls/formulax/index.m3u8"
+            "url": "http://vip.ultratotal.ml/xls/daznf1/index.m3u8"
         }
     ]
 }
