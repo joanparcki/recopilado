@@ -12,7 +12,13 @@
       "image": "https://telemetr.io/en/channels/1259879590/photo.jpeg",
     "stations": [
         {
-            "name": "grupo de telegram",
+            "name": "grupo de telegram ",
+            "image": "https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg",
+            "url": "http://t.me/ultratotal",
+            "embed":"true"
+        },
+         {
+            "name": "SOLO FUNCIONA EN CALYPSO",
             "image": "https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg",
             "url": "http://t.me/ultratotal",
             "embed":"true"
