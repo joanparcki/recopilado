@@ -1,21 +1,11 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="FUTBOL",LIGA
-http://vip.ultratotal.ml/xls/ligota/index.m3u8
-#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="FUTBOL",CHAMPIONS
-http://vip.ultratotal.ml/xls/champions/index.m3u8
-#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025e-0fac62eb08cc-e6eec4b938a5-1000/ucl-breaking-news.jpg" group-title="FUTBOL",MOTOGP
-http://vip.ultratotal.ml/xls/dazzzmoto/index.m3u8
-#EXTINF:-1 tvg-logo="https://www.motociclismo.es/uploads/s1/63/27/53/3/5bf014400ee694c4083493d9-motogp-2019-dazn-precio-equipo-gps-abierto.jpeg" group-title="FUTBOL",FORMULA1
-http://vip.ultratotal.ml/xls/formulax/index.m3u8
-#EXTINF:-1 tvg-logo="https://telemetr.io/en/channels/1259879590/photo.jpeg" group-title="GRUPO",T.ME/ULTRATOTAL
-http://65.108.218.152/xls/formulax/index.m3u8
 #EXTINF:-1 tvg-logo="https://telemetr.io/en/channels/1259879590/photo.jpeg" group-title="GRUPO",T.ME/ULTRADIRECTO UNETE Y UTILIZA LOS ENLACE EN LA APP CORRECTA
-http://65.108.218.152/xls/formulax/index.m3u8
+http://vip.ultratotal.ml/vip/formulax/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="ENLACES VIP",M+LIGA VIP
-http://65.108.218.152/xls/ligota/index.m3u8
+http://vip.ultratotal.ml/vip/mliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="ENLACES VIP",M+CHAMPIONS VIP
-http://65.108.218.152/xls/champions/index.m3u8
+http://vip.ultratotal.ml/vip/mcampeones/index.m3u8
 #EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025e-0fac62eb08cc-e6eec4b938a5-1000/ucl-breaking-news.jpg" group-title="ENLACES VIP",MOTOGP VIP
-http://65.108.218.152/xls/dazzzmoto/index.m3u8
+http://vip.ultratotal.ml/vip/daznmoto/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2021/03/dazn-f1-logo.jpg" group-title="ENLACES VIP",FORMULA1 VIP
-http://65.108.218.152/xls/formulax/index.m3u8
+http://vip.ultratotal.ml/vip/daznf1/index.m3u8
