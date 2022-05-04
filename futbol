@@ -1,0 +1,11 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://telemetr.io/en/channels/1259879590/photo.jpeg" group-title="GRUPO",T.ME/ULTRADIRECTO UNETE Y UTILIZA LOS ENLACE EN LA APP CORRECTA
+http://vip.ultratotal.ml/vip/formulax/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="ENLACES VIP",M+LIGA VIP
+http://vip.ultratotal.ml/vip/mliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.laliga.com/assets/logos/laliga-v-negativo/laliga-v-negativo-1200x1200.jpg" group-title="ENLACES VIP",M+CHAMPIONS VIP
+http://vip.ultratotal.ml/vip/mcampeones/index.m3u8
+#EXTINF:-1 tvg-logo="https://editorial.uefa.com/resources/025e-0fac62eb08cc-e6eec4b938a5-1000/ucl-breaking-news.jpg" group-title="ENLACES VIP",MOTOGP VIP
+http://vip.ultratotal.ml/vip/daznmoto/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.actualidadmotor.com/wp-content/uploads/2021/03/dazn-f1-logo.jpg" group-title="ENLACES VIP",FORMULA1 VIP
+http://vip.ultratotal.ml/vip/daznf1/index.m3u8
