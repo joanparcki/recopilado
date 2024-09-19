@@ -1,573 +1,569 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES - M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS+ HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOVISTAR-PLUS.png" group-title="|ES| DEPORTES",MOVISTAR PLUS+ HD
+http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/951390.m3u8
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505618.m3u8
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES - M. LALIGA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA FHD
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M. LALIGA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718917.m3u8
-#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES - M. LALIGA HD (BK-1)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA HD (BK-1)
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="M. LALIGA HD (BK-1)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA HD (BK-1)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/864079.m3u8
-#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES - M. LALIGA HD (BK-2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA HD (BK-2)
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="M. LALIGA HD (BK-2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA HD (BK-2)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/864080.m3u8
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA SD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",DAZN LALIGA SD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760762.m3u8
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA FHD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA FHD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA FHD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",DAZN LALIGA FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760761.m3u8
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA HD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",DAZN LALIGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760760.m3u8
-#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES - M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="M. LIGA DE CAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505650.m3u8
-#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES - M.LCAMPEONES HD (BK)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD (BK)
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="M. LIGA DE CAMPEONES HD (BK)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD (BK)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/870963.m3u8
-#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES - M.LCAMPEONES HD (BK2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD (BK2)
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="M. LIGA DE CAMPEONES HD (BK2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD (BK2)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/870962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD◉
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA DE CAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD◉
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/728733.m3u8
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES - M.LCAMPEONES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES FHD
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M. LIGA DE CAMPEONES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES UHD ◉
+#EXTINF:-1 tvg-id="" tvg-name="M. LIGA DE CAMPEONES UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES UHD ◉
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/728732.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeones1.es" tvg-name="ES - M.LCAMPEONES 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 1 HD
+#EXTINF:-1 tvg-id="LigadeCampeones1.es" tvg-name=M. LIGA DE CAMPEONES 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",M.LCAMPEONES 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505651.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES - LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LALIGATV-BAR-HD.jpg" group-title="|ES| DEPORTES",ES - LALIGATV BAR HD
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LALIGATV-BAR-HD.jpg" group-title="|ES| DEPORTES",LALIGATV BAR HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505619.m3u8
-#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="ES - LA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/la1hd.png" group-title="|ES| ESPAÑA HEVC",ES - LA 1 HD
+#EXTINF:-1 tvg-id="LaOtra.es" tvg-name="LA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/la1hd.png" group-title="|ES| ESPAÑA HEVC",LA 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612107.m3u8
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES - LA 1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/la1hd.png" group-title="|ES| ESPAÑA HEVC",ES - LA 1 HEVC
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/la1hd.png" group-title="|ES| ESPAÑA HEVC",LA 1 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612108.m3u8
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES - LA 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/la2.png" group-title="|ES| ESPAÑA HEVC",ES - LA 2
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/la2.png" group-title="|ES| ESPAÑA HEVC",LA 2
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612109.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES - ANTENA 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3hd.png" group-title="|ES| ESPAÑA HEVC",ES - ANTENA 3 HD
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3hd.png" group-title="|ES| ESPAÑA HEVC",ANTENA 3 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612110.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES - ANTENA 3 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3hd.png" group-title="|ES| ESPAÑA HEVC",ES - ANTENA 3 HEVC
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3hd.png" group-title="|ES| ESPAÑA HEVC",ANTENA 3 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612111.m3u8
-#EXTINF:-1 tvg-id="Antena3.cl" tvg-name="ES - ANTENA 3 INT." tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3.png" group-title="|ES| ESPAÑA HEVC",ES - ANTENA 3 INT.
+#EXTINF:-1 tvg-id="Antena3.cl" tvg-name="ANTENA 3 INT." tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3.png" group-title="|ES| ESPAÑA HEVC",ANTENA 3 INT.
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612112.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES - CUATRO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cuatrohd.png" group-title="|ES| ESPAÑA HEVC",ES - CUATRO HD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cuatrohd.png" group-title="|ES| ESPAÑA HEVC",CUATRO HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612113.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES - CUATRO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cuatrohd.png" group-title="|ES| ESPAÑA HEVC",ES - CUATRO HEVC
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cuatrohd.png" group-title="|ES| ESPAÑA HEVC",CUATRO HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612114.m3u8
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES - TELECINCO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/telecincohd.png" group-title="|ES| ESPAÑA HEVC",ES - TELECINCO HD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/telecincohd.png" group-title="|ES| ESPAÑA HEVC",TELECINCO HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612115.m3u8
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES - TELECINCO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/telecincohd.png" group-title="|ES| ESPAÑA HEVC",ES - TELECINCO HEVC
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/telecincohd.png" group-title="|ES| ESPAÑA HEVC",TELECINCO HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612116.m3u8
-#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES - LA SEXTA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lasextahd.png" group-title="|ES| ESPAÑA HEVC",ES - LA SEXTA HD
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="LA SEXTA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lasextahd.png" group-title="|ES| ESPAÑA HEVC",LA SEXTA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612117.m3u8
-#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="ES - LA SEXTA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/lasextahd.png" group-title="|ES| ESPAÑA HEVC",ES - LA SEXTA HEVC
+#EXTINF:-1 tvg-id="LaSexta.es" tvg-name="LA SEXTA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/lasextahd.png" group-title="|ES| ESPAÑA HEVC",LA SEXTA HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - NEOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/neox.png" group-title="|ES| ESPAÑA HEVC",ES - NEOX
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/neox.png" group-title="|ES| ESPAÑA HEVC",NEOX
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - NOVA" tvg-logo="http://logo.protv.cc/picons-dino/logos/nova.png" group-title="|ES| ESPAÑA HEVC",ES - NOVA
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="http://logo.protv.cc/picons-dino/logos/nova.png" group-title="|ES| ESPAÑA HEVC",NOVA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612120.m3u8
-#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES - DARK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dark.png" group-title="|ES| ESPAÑA HEVC",ES - DARK HD
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="DARK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dark.png" group-title="|ES| ESPAÑA HEVC",DARK HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612121.m3u8
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES - CLAN TVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/clantve.png" group-title="|ES| ESPAÑA HEVC",ES - CLAN TVE
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="CLAN TVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/clantve.png" group-title="|ES| ESPAÑA HEVC",CLAN TVE
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612122.m3u8
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES - ENERGY" tvg-logo="http://logo.protv.cc/picons-dino/logos/energy.png" group-title="|ES| ESPAÑA HEVC",ES - ENERGY
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="http://logo.protv.cc/picons-dino/logos/energy.png" group-title="|ES| ESPAÑA HEVC",ENERGY
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - FDF" tvg-logo="http://logo.protv.cc/picons-dino/logos/fdf.png" group-title="|ES| ESPAÑA HEVC",ES - FDF
+#EXTINF:-1 tvg-id="" tvg-name="FDF" tvg-logo="http://logo.protv.cc/picons-dino/logos/fdf.png" group-title="|ES| ESPAÑA HEVC",FDF
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612124.m3u8
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES - MEGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mega.png" group-title="|ES| ESPAÑA HEVC",ES - MEGA HD
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mega.png" group-title="|ES| ESPAÑA HEVC",MEGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612125.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="ES - 24 HORAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/24horas.png" group-title="|ES| ESPAÑA HEVC",ES - 24 HORAS
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 HORAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/24horas.png" group-title="|ES| ESPAÑA HEVC",24 HORAS
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - BIENVIAJE" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/BIENVIAJE.png" group-title="|ES| ESPAÑA HEVC",ES - BIENVIAJE
+#EXTINF:-1 tvg-id="" tvg-name="BIENVIAJE" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/BIENVIAJE.png" group-title="|ES| ESPAÑA HEVC",BIENVIAJE
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - CANAL MÁLAGA" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL-MALAGA.jpg" group-title="|ES| ESPAÑA HEVC",ES - CANAL MÁLAGA
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612148.m3u8
-#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-name="ES - A3 SERIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mserieshd.png" group-title="|ES| ESPAÑA HEVC",ES - A3 SERIES HD
+#EXTINF:-1 tvg-id="A3seriesHD.es" tvg-name="A3 SERIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mserieshd.png" group-title="|ES| ESPAÑA HEVC",A3 SERIES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612151.m3u8
-#EXTINF:-1 tvg-id="DKISS.es" tvg-name="ES - DKISS" tvg-logo="http://logo.protv.cc/picons-dino/logos/kiss.png" group-title="|ES| ESPAÑA HEVC",ES - DKISS
+#EXTINF:-1 tvg-id="DKISS.es" tvg-name="DKISS" tvg-logo="http://logo.protv.cc/picons-dino/logos/kiss.png" group-title="|ES| ESPAÑA HEVC",DKISS
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - HGTV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hgtv.png" group-title="|ES| ESPAÑA HEVC",ES - HGTV HD
+#EXTINF:-1 tvg-id="" tvg-name="HGTV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hgtv.png" group-title="|ES| ESPAÑA HEVC",HGTV HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/759744.m3u8
-#EXTINF:-1 tvg-id="TEN.es" tvg-name="ES - TEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEN-TV.jpg" group-title="|ES| ESPAÑA HEVC",ES - TEN
+#EXTINF:-1 tvg-id="TEN.es" tvg-name="TEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/TEN-TV.jpg" group-title="|ES| ESPAÑA HEVC",TEN
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612154.m3u8
-#EXTINF:-1 tvg-id="CGTN.es" tvg-name="ES - CGTN ESPANHOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/cgtn.png" group-title="|ES| ESPAÑA HEVC",ES - CGTN ESPANHOL
+#EXTINF:-1 tvg-id="CGTN.es" tvg-name="CGTN ESPANHOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/cgtn.png" group-title="|ES| ESPAÑA HEVC",CGTN ESPANHOL
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP CINE #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/spain/spain_640.png" group-title="|ES| ESPAÑA HEVC",##### ESP CINE #####
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612155.m3u8
-#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="ES - M. ORIGINALES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/0.png" group-title="|ES| ESPAÑA HEVC",ES - M. ORIGINALES HD
+#EXTINF:-1 tvg-id="GaliciaTVEuropa.es" tvg-name="M. ORIGINALES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/0.png" group-title="|ES| ESPAÑA HEVC",M. ORIGINALES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612156.m3u8
-#EXTINF:-1 tvg-id="es.#0" tvg-name="ES - M. ORIGINALES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/0.png" group-title="|ES| ESPAÑA HEVC",ES - M. ORIGINALES HEVC
+#EXTINF:-1 tvg-id="es.#0" tvg-name="M. ORIGINALES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/0.png" group-title="|ES| ESPAÑA HEVC",M. ORIGINALES HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612157.m3u8
-#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES - M+ INDIE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/amchd.png" group-title="|ES| ESPAÑA HEVC",ES - M+ INDIE HD
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="M+ INDIE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/amchd.png" group-title="|ES| ESPAÑA HEVC",M+ INDIE HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612158.m3u8
-#EXTINF:-1 tvg-id="AMC.es" tvg-name="ES - M+ INDIE HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/amc.png" group-title="|ES| ESPAÑA HEVC",ES - M+ INDIE HEVC
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="M+ INDIE HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/amc.png" group-title="|ES| ESPAÑA HEVC",M+ INDIE HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - AMC BREAK" tvg-logo="http://logo.protv.cc/picons/logos/amc.png" group-title="|ES| ESPAÑA HEVC",ES - AMC BREAK
+#EXTINF:-1 tvg-id="" tvg-name="AMC BREAK" tvg-logo="http://logo.protv.cc/picons/logos/amc.png" group-title="|ES| ESPAÑA HEVC",AMC BREAK
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/845866.m3u8
-#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="ES - M. CINE ESPANOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcineespanol.png" group-title="|ES| ESPAÑA HEVC",ES - M. CINE ESPANOL
+#EXTINF:-1 tvg-id="MovistarCineEspanol.es" tvg-name="M. CINE ESPANOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcineespanol.png" group-title="|ES| ESPAÑA HEVC",M. CINE ESPANOL
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. ACCION HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/maccionhd.png" group-title="|ES| ESPAÑA HEVC",ES - M. ACCION HD
+#EXTINF:-1 tvg-id="" tvg-name="M. ACCION HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/maccionhd.png" group-title="|ES| ESPAÑA HEVC",M. ACCION HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612161.m3u8
-#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="ES - M. ACCION HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/maccion.png" group-title="|ES| ESPAÑA HEVC",ES - M. ACCION HEVC
+#EXTINF:-1 tvg-id="MovistarAccion.es" tvg-name="M. ACCION HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/maccion.png" group-title="|ES| ESPAÑA HEVC",M. ACCION HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. CINE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mestrenoshd.png" group-title="|ES| ESPAÑA HEVC",ES - M. CINE HD
+#EXTINF:-1 tvg-id="" tvg-name="M. CINE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mestrenoshd.png" group-title="|ES| ESPAÑA HEVC",M. CINE HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. SUSPENSE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarestrenos2.png" group-title="|ES| ESPAÑA HEVC",ES - M. SUSPENSE HD
+#EXTINF:-1 tvg-id="" tvg-name="M. SUSPENSE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarestrenos2.png" group-title="|ES| ESPAÑA HEVC",M. SUSPENSE HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/680727.m3u8
-#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="ES - M. CINE HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mestrenos.png" group-title="|ES| ESPAÑA HEVC",ES - M. CINE HEVC
+#EXTINF:-1 tvg-id="MovistarEstrenos.es" tvg-name="M. CINE HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mestrenos.png" group-title="|ES| ESPAÑA HEVC",M. CINE HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612164.m3u8
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES - M. DRAMA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdrama.png" group-title="|ES| ESPAÑA HEVC",ES - M. DRAMA HD
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="M. DRAMA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdrama.png" group-title="|ES| ESPAÑA HEVC",M. DRAMA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612165.m3u8
-#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="ES - M. DRAMA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdrama.png" group-title="|ES| ESPAÑA HEVC",ES - M. DRAMA HEVC
+#EXTINF:-1 tvg-id="MovistarDrama.es" tvg-name="M. DRAMA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdrama.png" group-title="|ES| ESPAÑA HEVC",M. DRAMA HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.COMEDIA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcomediahd.png" group-title="|ES| ESPAÑA HEVC",ES - M.COMEDIA HD
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcomediahd.png" group-title="|ES| ESPAÑA HEVC",M.COMEDIA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612167.m3u8
-#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="ES - M.COMEDIA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcomedia.png" group-title="|ES| ESPAÑA HEVC",ES - M.COMEDIA HEVC
+#EXTINF:-1 tvg-id="MovistarComedia.es" tvg-name="M.COMEDIA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcomedia.png" group-title="|ES| ESPAÑA HEVC",M.COMEDIA HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. SERIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mserieshd.png" group-title="|ES| ESPAÑA HEVC",ES - M. SERIES HD
+#EXTINF:-1 tvg-id="" tvg-name="M. SERIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mserieshd.png" group-title="|ES| ESPAÑA HEVC",M. SERIES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612169.m3u8
-#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="ES - M. SERIES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mseries.png" group-title="|ES| ESPAÑA HEVC",ES - M. SERIES HEVC
+#EXTINF:-1 tvg-id="MovistarSeries.es" tvg-name="M. SERIES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mseries.png" group-title="|ES| ESPAÑA HEVC",M. SERIES HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.SERIESMANIA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mseriesmania.png" group-title="|ES| ESPAÑA HEVC",ES - M.SERIESMANIA HD
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIESMANIA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mseriesmania.png" group-title="|ES| ESPAÑA HEVC",M.SERIESMANIA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612171.m3u8
-#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" tvg-name="ES - M.SERIESMANIA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mseriesmania.png" group-title="|ES| ESPAÑA HEVC",ES - M.SERIESMANIA HEVC
+#EXTINF:-1 tvg-id="CcanalPlusSeriesmania.es" tvg-name="M.SERIESMANIA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mseriesmania.png" group-title="|ES| ESPAÑA HEVC",M.SERIESMANIA HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612172.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga1UHD.es" tvg-name="ES - M.CINEDOC&ROLL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcineespanol.png" group-title="|ES| ESPAÑA HEVC",ES - M.CINEDOC&ROLL HD
+#EXTINF:-1 tvg-id="M.LaLiga1UHD.es" tvg-name="M.CINEDOC&ROLL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcineespanol.png" group-title="|ES| ESPAÑA HEVC",M.CINEDOC&ROLL HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612173.m3u8
-#EXTINF:-1 tvg-id="MovistarCineDocRoll.es" tvg-name="ES - M.CINEDOC&ROLL HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcinedocandroll.png" group-title="|ES| ESPAÑA HEVC",ES - M.CINEDOC&ROLL HEVC
+#EXTINF:-1 tvg-id="MovistarCineDocRoll.es" tvg-name="M.CINEDOC&ROLL HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mcinedocandroll.png" group-title="|ES| ESPAÑA HEVC",M.CINEDOC&ROLL HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - AXN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnhd.png" group-title="|ES| ESPAÑA HEVC",ES - AXN HD
+#EXTINF:-1 tvg-id="" tvg-name="AXN HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnhd.png" group-title="|ES| ESPAÑA HEVC",AXN HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612175.m3u8
-#EXTINF:-1 tvg-id="AXN.es" tvg-name="ES - AXN HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/axn.png" group-title="|ES| ESPAÑA HEVC",ES - AXN HEVC
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/axn.png" group-title="|ES| ESPAÑA HEVC",AXN HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612176.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES - AXN MOVIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnwhitehd.png" group-title="|ES| ESPAÑA HEVC",ES - AXN MOVIES HD
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN MOVIES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnwhitehd.png" group-title="|ES| ESPAÑA HEVC",AXN MOVIES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612177.m3u8
-#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="ES - AXN MOVIES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnwhite.png" group-title="|ES| ESPAÑA HEVC",ES - AXN MOVIES HEVC
+#EXTINF:-1 tvg-id="AXNWhite.es" tvg-name="AXN MOVIES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/axnwhite.png" group-title="|ES| ESPAÑA HEVC",AXN MOVIES HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - FOX HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxhd.png" group-title="|ES| ESPAÑA HEVC",ES - FOX HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxhd.png" group-title="|ES| ESPAÑA HEVC",FOX HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612179.m3u8
-#EXTINF:-1 tvg-id="Fox.es" tvg-name="ES - FOX HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/fox.png" group-title="|ES| ESPAÑA HEVC",ES - FOX HEVC
+#EXTINF:-1 tvg-id="Fox.es" tvg-name="FOX HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/fox.png" group-title="|ES| ESPAÑA HEVC",FOX HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - FOX LIFE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxlifehd.png" group-title="|ES| ESPAÑA HEVC",ES - FOX LIFE HD
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/foxlifehd.png" group-title="|ES| ESPAÑA HEVC",FOX LIFE HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612181.m3u8
-#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="ES - COSMO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cosmohd.png" group-title="|ES| ESPAÑA HEVC",ES - COSMO HD
+#EXTINF:-1 tvg-id="CosmopolitanHD.es" tvg-name="COSMO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cosmohd.png" group-title="|ES| ESPAÑA HEVC",COSMO HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612183.m3u8
-#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="ES - COSMO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cosmo.png" group-title="|ES| ESPAÑA HEVC",ES - COSMO HEVC
+#EXTINF:-1 tvg-id="Cosmo.es" tvg-name="COSMO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cosmo.png" group-title="|ES| ESPAÑA HEVC",COSMO HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - WARNERBROS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tnthd.png" group-title="|ES| ESPAÑA HEVC",ES - WARNERBROS HD
+#EXTINF:-1 tvg-id="" tvg-name="WARNERBROS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tnthd.png" group-title="|ES| ESPAÑA HEVC",WARNERBROS HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612185.m3u8
-#EXTINF:-1 tvg-id="TNT.es" tvg-name="ES - WARNERBROS HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/tnt.png" group-title="|ES| ESPAÑA HEVC",ES - WARNERBROS HEVC
+#EXTINF:-1 tvg-id="TNT.es" tvg-name="WARNERBROS HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/tnt.png" group-title="|ES| ESPAÑA HEVC",WARNERBROS HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - SYFY HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/syfyhd.png" group-title="|ES| ESPAÑA HEVC",ES - SYFY HD
+#EXTINF:-1 tvg-id="" tvg-name="SYFY HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/syfyhd.png" group-title="|ES| ESPAÑA HEVC",SYFY HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612187.m3u8
-#EXTINF:-1 tvg-id="SyFy.es" tvg-name="ES - SYFY HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/syfy.png" group-title="|ES| ESPAÑA HEVC",ES - SYFY HEVC
+#EXTINF:-1 tvg-id="SyFy.es" tvg-name="SYFY HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/syfy.png" group-title="|ES| ESPAÑA HEVC",SYFY HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612188.m3u8
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES - CALLE 13 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/calle13hd.png" group-title="|ES| ESPAÑA HEVC",ES - CALLE 13 HD
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="CALLE 13 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/calle13hd.png" group-title="|ES| ESPAÑA HEVC",CALLE 13 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612189.m3u8
-#EXTINF:-1 tvg-id="Calle13.es" tvg-name="ES - CALLE 13 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/calle13hd.png" group-title="|ES| ESPAÑA HEVC",ES - CALLE 13 HEVC
+#EXTINF:-1 tvg-id="Calle13.es" tvg-name="CALLE 13 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/calle13hd.png" group-title="|ES| ESPAÑA HEVC",CALLE 13 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - HOLLYWOOD HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hollywoodhd.png" group-title="|ES| ESPAÑA HEVC",ES - HOLLYWOOD HD
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/hollywoodhd.png" group-title="|ES| ESPAÑA HEVC",HOLLYWOOD HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612192.m3u8
-#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="ES - HOLLYWOOD HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/hollywood.png" group-title="|ES| ESPAÑA HEVC",ES - HOLLYWOOD HEVC
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="HOLLYWOOD HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/hollywood.png" group-title="|ES| ESPAÑA HEVC",HOLLYWOOD HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612193.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES - COMEDY CENTRALHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd.png" group-title="|ES| ESPAÑA HEVC",ES - COMEDY CENTRALHD
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="COMEDY CENTRALHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentralhd.png" group-title="|ES| ESPAÑA HEVC",COMEDY CENTRALHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612195.m3u8
-#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="ES - COMEDY CENTRAL HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentral.png" group-title="|ES| ESPAÑA HEVC",ES - COMEDY CENTRAL HEVC
+#EXTINF:-1 tvg-id="ComedyCentral.es" tvg-name="COMEDY CENTRAL HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/comedycentral.png" group-title="|ES| ESPAÑA HEVC",COMEDY CENTRAL HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612196.m3u8
-#EXTINF:-1 tvg-id="Sundance.es" tvg-name="ES - SUNDANCE TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/sundancetv.png" group-title="|ES| ESPAÑA HEVC",ES - SUNDANCE TV
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="SUNDANCE TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/sundancetv.png" group-title="|ES| ESPAÑA HEVC",SUNDANCE TV
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612191.m3u8
-#EXTINF:-1 tvg-id="Paramount.es" tvg-name="ES - PARAMOUNT" tvg-logo="http://logo.protv.cc/picons-dino/logos/paramount.png" group-title="|ES| ESPAÑA HEVC",ES - PARAMOUNT
+#EXTINF:-1 tvg-id="Paramount.es" tvg-name="PARAMOUNT" tvg-logo="http://logo.protv.cc/picons-dino/logos/paramount.png" group-title="|ES| ESPAÑA HEVC",PARAMOUNT
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TCM HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tcmhd.png" group-title="|ES| ESPAÑA HEVC",ES - TCM HD
+#EXTINF:-1 tvg-id="" tvg-name="TCM HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tcmhd.png" group-title="|ES| ESPAÑA HEVC",TCM HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612197.m3u8
-#EXTINF:-1 tvg-id="TCM.es" tvg-name="ES - TCM HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/TCM.jpg" group-title="|ES| ESPAÑA HEVC",ES - TCM HEVC
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/TCM.jpg" group-title="|ES| ESPAÑA HEVC",TCM HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612198.m3u8
-#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="ES - XTRM HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/xtrm.png" group-title="|ES| ESPAÑA HEVC",ES - XTRM HD
+#EXTINF:-1 tvg-id="Xtrm.es" tvg-name="XTRM HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/xtrm.png" group-title="|ES| ESPAÑA HEVC",XTRM HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - SOMOS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/somos.png" group-title="|ES| ESPAÑA HEVC",ES - SOMOS HD
+#EXTINF:-1 tvg-id="" tvg-name="SOMOS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/somos.png" group-title="|ES| ESPAÑA HEVC",SOMOS HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/653978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="##### ESP DEPORTES #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/spain/spain_640.png" group-title="|ES| ESPAÑA HEVC",##### ESP DEPORTES #####
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612200.m3u8
-#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES - GOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/gol.png" group-title="|ES| ESPAÑA HEVC",ES - GOL
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="GOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/gol.png" group-title="|ES| ESPAÑA HEVC",GOL
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - R. MADRID TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/rmadridtv.png" group-title="|ES| ESPAÑA HEVC",ES - R. MADRID TV
+#EXTINF:-1 tvg-id="" tvg-name="R. MADRID TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/rmadridtv.png" group-title="|ES| ESPAÑA HEVC",R. MADRID TV
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612203.m3u8
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES - M. GOLF HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mgolf.png" group-title="|ES| ESPAÑA HEVC",ES - M. GOLF HEVC
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="M. GOLF HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mgolf.png" group-title="|ES| ESPAÑA HEVC",M. GOLF HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. GOLF HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistargolf.png" group-title="|ES| ESPAÑA HEVC",ES - M. GOLF HD
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistargolf.png" group-title="|ES| ESPAÑA HEVC",M. GOLF HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612204.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="ES - M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA HD
+#EXTINF:-1 tvg-id="M.LaLiga.es" tvg-name="M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612206.m3u8
-#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="ES - M. LALIGA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA HEVC
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="M. LALIGA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612207.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES - LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| ESPAÑA HEVC",ES - LALIGATV BAR HD
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| ESPAÑA HEVC",LALIGATV BAR HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612208.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES - LALIGA TV BAR HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| ESPAÑA HEVC",ES - LALIGA TV BAR HEVC
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="LALIGA TV BAR HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| ESPAÑA HEVC",LALIGA TV BAR HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612209.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES - M. LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA 1 HD
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="M. LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. LALIGA 1 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA 1 FHD (1080P)
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 1 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA 1 FHD (1080P)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612210.m3u8
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="ES - M. LALIGA 1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA 1 HEVC
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="M. LALIGA 1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA 1 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612212.m3u8
-#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="ES - M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA 2 HD
+#EXTINF:-1 tvg-id="MLaLiga2.es" tvg-name="M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. LALIGA 2 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA 2 FHD (1080P)
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 2 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA 2 FHD (1080P)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612213.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES - M. LALIGA 3 HD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga3.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA 3 HD [LIVEEVENT]
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="M. LALIGA 3 HD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga3.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA 3 HD [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. LALIGA 4 HD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga4.png" group-title="|ES| ESPAÑA HEVC",ES - M. LALIGA 4 HD [LIVEEVENT]
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 4 HD [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga4.png" group-title="|ES| ESPAÑA HEVC",M. LALIGA 4 HD [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612216.m3u8
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES - M.FORMULA1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mformula1.png" group-title="|ES| ESPAÑA HEVC",ES - M.FORMULA1 HEVC
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="M.FORMULA1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mformula1.png" group-title="|ES| ESPAÑA HEVC",M.FORMULA1 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612224.m3u8
-#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="ES - M.FORMULA1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarformula1.png" group-title="|ES| ESPAÑA HEVC",ES - M.FORMULA1 HD
+#EXTINF:-1 tvg-id="MovistarFormula1.es" tvg-name="M.FORMULA1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarformula1.png" group-title="|ES| ESPAÑA HEVC",M.FORMULA1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612223.m3u8
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES - #VAMOS HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/vamos.png" group-title="|ES| ESPAÑA HEVC",ES - #VAMOS HEVC
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="#VAMOS HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/vamos.png" group-title="|ES| ESPAÑA HEVC",#VAMOS HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612225.m3u8
-#EXTINF:-1 tvg-id="es.#Vamos" tvg-name="ES - #VAMOS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/vamos.png" group-title="|ES| ESPAÑA HEVC",ES - #VAMOS HD
+#EXTINF:-1 tvg-id="es.#Vamos" tvg-name="#VAMOS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/vamos.png" group-title="|ES| ESPAÑA HEVC",#VAMOS HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612226.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES - EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="|ES| ESPAÑA HEVC",ES - EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="|ES| ESPAÑA HEVC",EUROSPORT 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612227.m3u8
-#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="ES - EUROSPORT1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1.png" group-title="|ES| ESPAÑA HEVC",ES - EUROSPORT1 HEVC
+#EXTINF:-1 tvg-id="Eurosport1.es" tvg-name="EUROSPORT1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1.png" group-title="|ES| ESPAÑA HEVC",EUROSPORT1 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612228.m3u8
-#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="ES - EUROSPORT 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2.png" group-title="|ES| ESPAÑA HEVC",ES - EUROSPORT 2
+#EXTINF:-1 tvg-id="Eurosport2.es" tvg-name="EUROSPORT 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2.png" group-title="|ES| ESPAÑA HEVC",EUROSPORT 2
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612229.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES - M. DEPORTES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistardeportes.png" group-title="|ES| ESPAÑA HEVC",ES - M. DEPORTES HD
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="M. DEPORTES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistardeportes.png" group-title="|ES| ESPAÑA HEVC",M. DEPORTES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612230.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES - M. DEPORTES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes.png" group-title="|ES| ESPAÑA HEVC",ES - M. DEPORTES HEVC
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="M. DEPORTES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes.png" group-title="|ES| ESPAÑA HEVC",M. DEPORTES HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612231.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. DEPORTES1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistardeportes1.png" group-title="|ES| ESPAÑA HEVC",ES - M. DEPORTES1 HD
+#EXTINF:-1 tvg-id="" tvg-name="M. DEPORTES1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistardeportes1.png" group-title="|ES| ESPAÑA HEVC",M. DEPORTES1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612232.m3u8
-#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="ES - M. DEPORTES1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes1.png" group-title="|ES| ESPAÑA HEVC",ES - M. DEPORTES1 HEVC
+#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="M. DEPORTES1 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes1.png" group-title="|ES| ESPAÑA HEVC",M. DEPORTES1 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612233.m3u8
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES - LALIGA123 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/laliga123tv.png" group-title="|ES| ESPAÑA HEVC",ES - LALIGA123 HEVC
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="LALIGA123 HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/laliga123tv.png" group-title="|ES| ESPAÑA HEVC",LALIGA123 HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612240.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - LALIGA 123 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laliga123tv.png" group-title="|ES| ESPAÑA HEVC",ES - LALIGA 123 HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA 123 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laliga123tv.png" group-title="|ES| ESPAÑA HEVC",LALIGA 123 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612241.m3u8
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES - M.LCAMPEONES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| ESPAÑA HEVC",ES - M.LCAMPEONES HEVC
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M.LCAMPEONES HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| ESPAÑA HEVC",M.LCAMPEONES HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612247.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones.png" group-title="|ES| ESPAÑA HEVC",ES - M.LCAMPEONES HD
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones.png" group-title="|ES| ESPAÑA HEVC",M.LCAMPEONES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612248.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES 2 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones2.png" group-title="|ES| ESPAÑA HEVC",ES - M.LCAMPEONES 2 FHD (1080P)
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 2 FHD (1080P)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones2.png" group-title="|ES| ESPAÑA HEVC",M.LCAMPEONES 2 FHD (1080P)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612249.m3u8
-#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="ES - M.LCAMPEON1 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones1.png" group-title="|ES| ESPAÑA HEVC",ES - M.LCAMPEON1 [LIVEEVENT]
+#EXTINF:-1 tvg-id="MLaLiga1.es" tvg-name="M.LCAMPEON1 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones1.png" group-title="|ES| ESPAÑA HEVC",M.LCAMPEON1 [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612250.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES - M.LCAMPEON2 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones2.png" group-title="|ES| ESPAÑA HEVC",ES - M.LCAMPEON2 [LIVEEVENT]
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="M.LCAMPEON2 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarligadecampeones2.png" group-title="|ES| ESPAÑA HEVC",M.LCAMPEON2 [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612251.m3u8
-#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="ES - TOROS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/torostv.png" group-title="|ES| ESPAÑA HEVC",ES - TOROS HD
+#EXTINF:-1 tvg-id="CanalPlusToros.es" tvg-name="TOROS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/torostv.png" group-title="|ES| ESPAÑA HEVC",TOROS HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612259.m3u8
-#EXTINF:-1 tvg-id="Toros.es" tvg-name="ES - TOROS HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/toros.png" group-title="|ES| ESPAÑA HEVC",ES - TOROS HEVC
+#EXTINF:-1 tvg-id="Toros.es" tvg-name="TOROS HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/toros.png" group-title="|ES| ESPAÑA HEVC",TOROS HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612260.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - EL TORO TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EL-TORO.jpeg" group-title="|ES| ESPAÑA HEVC",ES - EL TORO TV HD
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EL-TORO.jpeg" group-title="|ES| ESPAÑA HEVC",EL TORO TV HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/721113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TELEDEPORTE" tvg-logo="http://logo.protv.cc/picons-dino/logos/teledeporte.png" group-title="|ES| ESPAÑA HEVC",ES - TELEDEPORTE
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="http://logo.protv.cc/picons-dino/logos/teledeporte.png" group-title="|ES| ESPAÑA HEVC",TELEDEPORTE
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612258.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN BAR 1" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN-BAR-1.png" group-title="|ES| DEPORTES",ES - DAZN BAR 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN BAR 1" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN-BAR-1.png" group-title="|ES| DEPORTES",DAZN BAR 1
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/1108481.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1.png" group-title="|ES| ESPAÑA HEVC",ES - DAZN 1
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 1" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1.png" group-title="|ES| ESPAÑA HEVC",DAZN 1
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612264.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn2.png" group-title="|ES| ESPAÑA HEVC",ES - DAZN 2
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn2.png" group-title="|ES| ESPAÑA HEVC",DAZN 2
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612265.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| ESPAÑA HEVC",ES - DAZN 3
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| ESPAÑA HEVC",DAZN 3
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612266.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| ESPAÑA HEVC",ES - DAZN 4
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| ESPAÑA HEVC",DAZN 4
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612267.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - NAT GEO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeohd.png" group-title="|ES| ESPAÑA HEVC",ES - NAT GEO HD
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeohd.png" group-title="|ES| ESPAÑA HEVC",NAT GEO HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612273.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="ES - NAT GEO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeo.png" group-title="|ES| ESPAÑA HEVC",ES - NAT GEO HEVC
+#EXTINF:-1 tvg-id="NationalGeographic.es" tvg-name="NAT GEO HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeo.png" group-title="|ES| ESPAÑA HEVC",NAT GEO HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612274.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - NG WILD HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildhd.png" group-title="|ES| ESPAÑA HEVC",ES - NG WILD HD
+#EXTINF:-1 tvg-id="" tvg-name="NG WILD HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/natgeowildhd.png" group-title="|ES| ESPAÑA HEVC",NG WILD HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612275.m3u8
-#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="ES - NG WILD HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/ngwild.png" group-title="|ES| ESPAÑA HEVC",ES - NG WILD HEVC
+#EXTINF:-1 tvg-id="NatGeoWild.es" tvg-name="NG WILD HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/ngwild.png" group-title="|ES| ESPAÑA HEVC",NG WILD HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612276.m3u8
-#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="ES - CAZAYPESCA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cazaypesca.png" group-title="|ES| ESPAÑA HEVC",ES - CAZAYPESCA HD
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="CAZAYPESCA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cazaypesca.png" group-title="|ES| ESPAÑA HEVC",CAZAYPESCA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612279.m3u8
-#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="ES - CAZAYPESCA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cazaypesca.png" group-title="|ES| ESPAÑA HEVC",ES - CAZAYPESCA HEVC
+#EXTINF:-1 tvg-id="CazaPesca.es" tvg-name="CAZAYPESCA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/cazaypesca.png" group-title="|ES| ESPAÑA HEVC",CAZAYPESCA HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612280.m3u8
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES - IBERALIA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/iberaliatv.png" group-title="|ES| ESPAÑA HEVC",ES - IBERALIA TV
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="IBERALIA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/iberaliatv.png" group-title="|ES| ESPAÑA HEVC",IBERALIA TV
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612281.m3u8
-#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="ES - IBERALIA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/iberalia.png" group-title="|ES| ESPAÑA HEVC",ES - IBERALIA TV
+#EXTINF:-1 tvg-id="IberaliaTV.es" tvg-name="IBERALIA TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/iberalia.png" group-title="|ES| ESPAÑA HEVC",IBERALIA TV
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612282.m3u8
-#EXTINF:-1 tvg-id="SolMusica.es" tvg-name="ES - SOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/sol.png" group-title="|ES| ESPAÑA HEVC",ES - SOL
+#EXTINF:-1 tvg-id="SolMusica.es" tvg-name="SOL" tvg-logo="http://logo.protv.cc/picons-dino/logos/sol.png" group-title="|ES| ESPAÑA HEVC",SOL
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612283.m3u8
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES - ODISEA" tvg-logo="http://logo.protv.cc/picons-dino/logos/odisea.png" group-title="|ES| ESPAÑA HEVC",ES - ODISEA
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ODISEA" tvg-logo="http://logo.protv.cc/picons-dino/logos/odisea.png" group-title="|ES| ESPAÑA HEVC",ODISEA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612284.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - HISTORIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/historia.png" group-title="|ES| ESPAÑA HEVC",ES - HISTORIA
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://logo.protv.cc/picons-dino/logos/historia.png" group-title="|ES| ESPAÑA HEVC",HISTORIA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612285.m3u8
-#EXTINF:-1 tvg-id="DiscoveryIberia.es" tvg-name="ES - DISCOVERY" tvg-logo="http://logo.protv.cc/picons-dino/logos/discovery.png" group-title="|ES| ESPAÑA HEVC",ES - DISCOVERY
+#EXTINF:-1 tvg-id="DiscoveryIberia.es" tvg-name="DISCOVERY" tvg-logo="http://logo.protv.cc/picons-dino/logos/discovery.png" group-title="|ES| ESPAÑA HEVC",DISCOVERY
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612286.m3u8
-#EXTINF:-1 tvg-id="Blaze.es" tvg-name="ES - BLAZE" tvg-logo="http://logo.protv.cc/picons-dino/logos/blaze.png" group-title="|ES| ESPAÑA HEVC",ES - BLAZE
+#EXTINF:-1 tvg-id="Blaze.es" tvg-name="BLAZE" tvg-logo="http://logo.protv.cc/picons-dino/logos/blaze.png" group-title="|ES| ESPAÑA HEVC",BLAZE
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612287.m3u8
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES - CANAL COCINA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalcocina.png" group-title="|ES| ESPAÑA HEVC",ES - CANAL COCINA
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="CANAL COCINA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalcocina.png" group-title="|ES| ESPAÑA HEVC",CANAL COCINA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612289.m3u8
-#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="ES - CANAL COCINA  HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalcocina.png" group-title="|ES| ESPAÑA HEVC",ES - CANAL COCINA  HD
+#EXTINF:-1 tvg-id="CanalCocina.es" tvg-name="CANAL COCINA  HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalcocina.png" group-title="|ES| ESPAÑA HEVC",CANAL COCINA  HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612288.m3u8
-#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="ES - CANAL DECASA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canaldecasa.png" group-title="|ES| ESPAÑA HEVC",ES - CANAL DECASA
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="CANAL DECASA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canaldecasa.png" group-title="|ES| ESPAÑA HEVC",CANAL DECASA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612291.m3u8
-#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="ES - CANAL DECASA  HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/canaldecasa.png" group-title="|ES| ESPAÑA HEVC",ES - CANAL DECASA  HD
+#EXTINF:-1 tvg-id="CanalDecasa.es" tvg-name="CANAL DECASA  HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/canaldecasa.png" group-title="|ES| ESPAÑA HEVC",CANAL DECASA  HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612290.m3u8
-#EXTINF:-1 tvg-id="Odisea.es" tvg-name="ES - CANAL ODISEA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalodisea.png" group-title="|ES| ESPAÑA HEVC",ES - CANAL ODISEA
+#EXTINF:-1 tvg-id="Odisea.es" tvg-name="CANAL ODISEA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalodisea.png" group-title="|ES| ESPAÑA HEVC",CANAL ODISEA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612292.m3u8
-#EXTINF:-1 tvg-id="Classica.es" tvg-name="ES - CLASSICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/classica.png" group-title="|ES| ESPAÑA HEVC",ES - CLASSICA
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="CLASSICA" tvg-logo="http://logo.protv.cc/picons-dino/logos/classica.png" group-title="|ES| ESPAÑA HEVC",CLASSICA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612293.m3u8
-#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="ES - CRIMEN INVES" tvg-logo="http://logo.protv.cc/picons-dino/logos/ci.png" group-title="|ES| ESPAÑA HEVC",ES - CRIMEN INVES
+#EXTINF:-1 tvg-id="CrimeAndInvestigation.es" tvg-name="CRIMEN INVES" tvg-logo="http://logo.protv.cc/picons-dino/logos/ci.png" group-title="|ES| ESPAÑA HEVC",CRIMEN INVES
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612294.m3u8
-#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="ES - BE MAD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bemad.png" group-title="|ES| ESPAÑA HEVC",ES - BE MAD
+#EXTINF:-1 tvg-id="BeMadTV.es" tvg-name="BE MAD" tvg-logo="http://logo.protv.cc/picons-dino/logos/bemad.png" group-title="|ES| ESPAÑA HEVC",BE MAD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612295.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - MTV ESPANA" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvespana.png" group-title="|ES| ESPAÑA HEVC",ES - MTV ESPANA
+#EXTINF:-1 tvg-id="" tvg-name="MTV ESPANA" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvespana.png" group-title="|ES| ESPAÑA HEVC",MTV ESPANA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612297.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - MEZZO LIVE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mezzolivehd.png" group-title="|ES| ESPAÑA HEVC",ES - MEZZO LIVE HD
+#EXTINF:-1 tvg-id="" tvg-name="MEZZO LIVE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mezzolivehd.png" group-title="|ES| ESPAÑA HEVC",MEZZO LIVE HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612298.m3u8
-#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="ES - MEZZO LIVE HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mezzolivehd.png" group-title="|ES| ESPAÑA HEVC",ES - MEZZO LIVE HEVC
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="MEZZO LIVE HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/mezzolivehd.png" group-title="|ES| ESPAÑA HEVC",MEZZO LIVE HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612299.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeon.png" group-title="|ES| ESPAÑA HEVC",ES - NICKELODEON HD
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeon.png" group-title="|ES| ESPAÑA HEVC",NICKELODEON HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612301.m3u8
-#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="ES - NICKELODEON HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeons.png" group-title="|ES| ESPAÑA HEVC",ES - NICKELODEON HEVC
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="NICKELODEON HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickelodeons.png" group-title="|ES| ESPAÑA HEVC",NICKELODEON HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612302.m3u8
-#EXTINF:-1 tvg-id="NickJr.es" tvg-name="ES - NICK JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickjr.png" group-title="|ES| ESPAÑA HEVC",ES - NICK JR
+#EXTINF:-1 tvg-id="NickJr.es" tvg-name="NICK JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/nickjr.png" group-title="|ES| ESPAÑA HEVC",NICK JR
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612304.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - BABY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/babytv.png" group-title="|ES| ESPAÑA HEVC",ES - BABY TV
+#EXTINF:-1 tvg-id="" tvg-name="BABY TV" tvg-logo="http://logo.protv.cc/picons-dino/logos/babytv.png" group-title="|ES| ESPAÑA HEVC",BABY TV
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612305.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DISNEY JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyjr.png" group-title="|ES| ESPAÑA HEVC",ES - DISNEY JR
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://logo.protv.cc/picons-dino/logos/disneyjr.png" group-title="|ES| ESPAÑA HEVC",DISNEY JR
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612306.m3u8
-#EXTINF:-1 tvg-id="Boing.es" tvg-name="ES - BOING" tvg-logo="http://logo.protv.cc/picons-dino/logos/boing.png" group-title="|ES| ESPAÑA HEVC",ES - BOING
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="BOING" tvg-logo="http://logo.protv.cc/picons-dino/logos/boing.png" group-title="|ES| ESPAÑA HEVC",BOING
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612308.m3u8
-#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="ES - CANAL PANDA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalpanda.png" group-title="|ES| ESPAÑA HEVC",ES - CANAL PANDA
+#EXTINF:-1 tvg-id="CanalPanda.es" tvg-name="CANAL PANDA" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalpanda.png" group-title="|ES| ESPAÑA HEVC",CANAL PANDA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612309.m3u8
-#EXTINF:-1 tvg-id="LA1.es" tvg-name="ES - LA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/la1.png" group-title="|ES| GENERAL",ES - LA 1 HD
+#EXTINF:-1 tvg-id="LA1.es" tvg-name="LA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/la1.png" group-title="|ES| GENERAL",LA 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505545.m3u8
-#EXTINF:-1 tvg-id="LA2.es" tvg-name="ES - LA 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/la2.png" group-title="|ES| GENERAL",ES - LA 2
+#EXTINF:-1 tvg-id="LA2.es" tvg-name="LA 2" tvg-logo="http://logo.protv.cc/picons-dino/logos/la2.png" group-title="|ES| GENERAL",LA 2
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505546.m3u8
-#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ES - ANTENA 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3hd.png" group-title="|ES| GENERAL",ES - ANTENA 3 HD
+#EXTINF:-1 tvg-id="Antena3.es" tvg-name="ANTENA 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/antena3hd.png" group-title="|ES| GENERAL",ANTENA 3 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505547.m3u8
-#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="ES - CUATRO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cuatrohd.png" group-title="|ES| GENERAL",ES - CUATRO HD
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="CUATRO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/cuatrohd.png" group-title="|ES| GENERAL",CUATRO HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505549.m3u8
-#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="ES - TELECINCO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/telecincohd.png" group-title="|ES| GENERAL",ES - TELECINCO HD
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="TELECINCO HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/telecincohd.png" group-title="|ES| GENERAL",TELECINCO HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505550.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TVGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvgalicia.png" group-title="|ES| GENERAL",ES - TVGA HD
+#EXTINF:-1 tvg-id="" tvg-name="TVGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/tvgalicia.png" group-title="|ES| GENERAL",TVGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/682890.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - #0 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ES.png" group-title="|ES| GENERAL",ES - #0 HD
+#EXTINF:-1 tvg-id="" tvg-name="#0 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/ES.png" group-title="|ES| GENERAL",#0 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/682889.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - RT ESP HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtesphd.png" group-title="|ES| GENERAL",ES - RT ESP HD
+#EXTINF:-1 tvg-id="" tvg-name="RT ESP HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rtesphd.png" group-title="|ES| GENERAL",RT ESP HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/682888.m3u8
-#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="ES - LA SEXTA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lasextahd.png" group-title="|ES| GENERAL",ES - LA SEXTA HD
+#EXTINF:-1 tvg-id="LaSexta.sp" tvg-name="LA SEXTA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/lasextahd.png" group-title="|ES| GENERAL",LA SEXTA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505551.m3u8
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="ES - NEOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/neox.png" group-title="|ES| GENERAL",ES - NEOX
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="NEOX" tvg-logo="http://logo.protv.cc/picons-dino/logos/neox.png" group-title="|ES| GENERAL",NEOX
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505552.m3u8
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="ES - NOVA" tvg-logo="http://logo.protv.cc/picons-dino/logos/nova.png" group-title="|ES| GENERAL",ES - NOVA
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="NOVA" tvg-logo="http://logo.protv.cc/picons-dino/logos/nova.png" group-title="|ES| GENERAL",NOVA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505553.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - ALL FLAMENGO HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ALL-FLAMENGO.png" group-title="|ES| GENERAL",ES - ALL FLAMENGO HD
+#EXTINF:-1 tvg-id="" tvg-name="ALL FLAMENGO HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/ALL-FLAMENGO.png" group-title="|ES| GENERAL",ALL FLAMENGO HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/924941.m3u8
-#EXTINF:-1 tvg-id="Dark.es" tvg-name="ES - DARK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dark.png" group-title="|ES| GENERAL",ES - DARK HD
+#EXTINF:-1 tvg-id="Dark.es" tvg-name="DARK HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dark.png" group-title="|ES| GENERAL",DARK HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505554.m3u8
-#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="ES - CLAN TVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/clantve.png" group-title="|ES| GENERAL",ES - CLAN TVE
+#EXTINF:-1 tvg-id="ClanTVE.es" tvg-name="CLAN TVE" tvg-logo="http://logo.protv.cc/picons-dino/logos/clantve.png" group-title="|ES| GENERAL",CLAN TVE
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505555.m3u8
-#EXTINF:-1 tvg-id="Energy.es" tvg-name="ES - ENERGY" tvg-logo="http://logo.protv.cc/picons-dino/logos/energy.png" group-title="|ES| GENERAL",ES - ENERGY
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="ENERGY" tvg-logo="http://logo.protv.cc/picons-dino/logos/energy.png" group-title="|ES| GENERAL",ENERGY
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505556.m3u8
-#EXTINF:-1 tvg-id="es.Factoría de Ficción" tvg-name="ES - FDF" tvg-logo="http://logo.protv.cc/picons-dino/logos/fdf.png" group-title="|ES| GENERAL",ES - FDF
+#EXTINF:-1 tvg-id="es.Factoría de Ficción" tvg-name="FDF" tvg-logo="http://logo.protv.cc/picons-dino/logos/fdf.png" group-title="|ES| GENERAL",FDF
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505557.m3u8
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="ES - MEGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEGA-HD.jpeg" group-title="|ES| GENERAL",ES - MEGA HD
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="MEGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/MEGA-HD.jpeg" group-title="|ES| GENERAL",MEGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505558.m3u8
-#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="ES - CANAL SUR" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalsurandalucia.png" group-title="|ES| GENERAL",ES - CANAL SUR
+#EXTINF:-1 tvg-id="CanalAndalucia.es" tvg-name="CANAL SUR" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalsurandalucia.png" group-title="|ES| GENERAL",CANAL SUR
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/644827.m3u8
-#EXTINF:-1 tvg-id="24Horas.es" tvg-name="ES - 24 HORAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/24horas.png" group-title="|ES| GENERAL",ES - 24 HORAS
+#EXTINF:-1 tvg-id="24Horas.es" tvg-name="24 HORAS" tvg-logo="http://logo.protv.cc/picons-dino/logos/24horas.png" group-title="|ES| GENERAL",24 HORAS
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505559.m3u8
-#EXTINF:-1 tvg-id="DKISS.es" tvg-name="ES - DKISS" tvg-logo="http://logo.protv.cc/picons-dino/logos/D-KISS-TV.png" group-title="|ES| GENERAL",ES - DKISS
+#EXTINF:-1 tvg-id="DKISS.es" tvg-name="DKISS" tvg-logo="http://logo.protv.cc/picons-dino/logos/D-KISS-TV.png" group-title="|ES| GENERAL",DKISS
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505586.m3u8
-#EXTINF:-1 tvg-id="TEN.es" tvg-name="ES - TEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/ten.jpg" group-title="|ES| GENERAL",ES - TEN
+#EXTINF:-1 tvg-id="TEN.es" tvg-name="TEN" tvg-logo="http://logo.protv.cc/picons-dino/logos/ten.jpg" group-title="|ES| GENERAL",TEN
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505587.m3u8
-#EXTINF:-1 tvg-id="MezzoLiveHD.es" tvg-name="ES - MEZZO LIVE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mezzolivehd.png" group-title="|ES| GENERAL",ES - MEZZO LIVE HD
+#EXTINF:-1 tvg-id="MezzoLiveHD.es" tvg-name="MEZZO LIVE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mezzolivehd.png" group-title="|ES| GENERAL",MEZZO LIVE HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505693.m3u8
-#EXTINF:-1 tvg-id="MTVEsp.es" tvg-name="ES - MTV ESPANA" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvespana.png" group-title="|ES| GENERAL",ES - MTV ESPANA
+#EXTINF:-1 tvg-id="MTVEsp.es" tvg-name="MTV ESPANA" tvg-logo="http://logo.protv.cc/picons-dino/logos/mtvespana.png" group-title="|ES| GENERAL",MTV ESPANA
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505692.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - KARAOKE 1" tvg-logo="http://logo.protv.cc/picons/logos/KARAOKE-1.jpeg" group-title="|ES| GENERAL",ES - KARAOKE 1
+#EXTINF:-1 tvg-id="" tvg-name="KARAOKE 1" tvg-logo="http://logo.protv.cc/picons/logos/KARAOKE-1.jpeg" group-title="|ES| GENERAL",KARAOKE 1
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/697239.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="##### ESP DEPORTES #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/spain/spain_640.png" group-title="|ES| DEPORTES",##### ESP DEPORTES #####
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505613.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - MOVISTAR PLUS+ HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOVISTAR-PLUS.png" group-title="|ES| DEPORTES",ES - MOVISTAR PLUS+ HD
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS+ HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOVISTAR-PLUS.png" group-title="|ES| DEPORTES",MOVISTAR PLUS+ HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/951390.m3u8
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA SD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",DAZN LALIGA SD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760762.m3u8
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA FHD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA FHD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA FHD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",DAZN LALIGA FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760761.m3u8
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA HD
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",DAZN LALIGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760760.m3u8
-#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES - M. LALIGA HD (BK-1)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA HD (BK-1)
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="M. LALIGA HD (BK-1)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA HD (BK-1)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/864079.m3u8
-#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES - M. LALIGA HD (BK-2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA HD (BK-2)
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="M. LALIGA HD (BK-2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA HD (BK-2)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/864080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN-LALIGA-2.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN-LALIGA-2.png" group-title="|ES| DEPORTES",DAZN LALIGA 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/800992.m3u8
-#EXTINF:-1 tvg-id="GOL.es" tvg-name="ES - GOL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/gol.png" group-title="|ES| DEPORTES",ES - GOL HD
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="GOL HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/gol.png" group-title="|ES| DEPORTES",GOL HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505614.m3u8
-#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="ES - R. MADRID TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rmadridtv.png" group-title="|ES| DEPORTES",ES - R. MADRID TV HD
+#EXTINF:-1 tvg-id="RealMadridTV.es" tvg-name="R. MADRID TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/rmadridtv.png" group-title="|ES| DEPORTES",R. MADRID TV HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505616.m3u8
-#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="ES - M. GOLF HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mgolfhd.png" group-title="|ES| DEPORTES",ES - M. GOLF HD
+#EXTINF:-1 tvg-id="MovistarGolf.es" tvg-name="M. GOLF HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mgolfhd.png" group-title="|ES| DEPORTES",M. GOLF HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505617.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. GOLF 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/M-GOLF.png" group-title="|ES| DEPORTES",ES - M. GOLF 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="M. GOLF 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/M-GOLF.png" group-title="|ES| DEPORTES",M. GOLF 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/1094492.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. ELLAS #V" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/M-ELLAS.png" group-title="|ES| DEPORTES",ES - M. ELLAS #V
+#EXTINF:-1 tvg-id="" tvg-name="M. ELLAS #V" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/M-ELLAS.png" group-title="|ES| DEPORTES",M. ELLAS #V
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/988512.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - LALIGA HYPERMOTION TV 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",ES - LALIGA HYPERMOTION TV 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION TV 2 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",LALIGA HYPERMOTION TV 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/765169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - LALIGA HYPERMOTION TV HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",ES - LALIGA HYPERMOTION TV HD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION TV HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",LALIGA HYPERMOTION TV HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/765168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - LALIGA HYPERMOTION TV 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",ES - LALIGA HYPERMOTION TV 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION TV 2 FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",LALIGA HYPERMOTION TV 2 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/765167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - LALIGA HYPERMOTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",ES - LALIGA HYPERMOTION FHD
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA HYPERMOTION FHD" tvg-logo="http://logo.protv.cc/picons/logos/logos/LALIGA-HYPERMOTION.png" group-title="|ES| DEPORTES",LALIGA HYPERMOTION FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/765166.m3u8
-#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="ES - M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA HD
+#EXTINF:-1 tvg-id="M.LaLigaUHD.es" tvg-name="M. LALIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505618.m3u8
-#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES - M. LALIGA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",ES - M. LALIGA FHD
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="M. LALIGA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" group-title="|ES| DEPORTES",M. LALIGA FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718917.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. LALIGA 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| DEPORTES",ES - M. LALIGA 1 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| DEPORTES",M. LALIGA 1 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718914.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="ES - M. LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| DEPORTES",ES - M. LALIGA 1 HD
+#EXTINF:-1 tvg-id="M.LaLiga1.es" tvg-name="M. LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga1.png" group-title="|ES| DEPORTES",M. LALIGA 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505621.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. LALIGA 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| DEPORTES",ES - M. LALIGA 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| DEPORTES",M. LALIGA 2 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718915.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="ES - M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| DEPORTES",ES - M. LALIGA 2 HD
+#EXTINF:-1 tvg-id="M.LaLiga2.es" tvg-name="M. LALIGA 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" group-title="|ES| DEPORTES",M. LALIGA 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505623.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. LALIGA 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga3.png" group-title="|ES| DEPORTES",ES - M. LALIGA 3 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga3.png" group-title="|ES| DEPORTES",M. LALIGA 3 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718916.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="ES - M. LALIGA 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga3.png" group-title="|ES| DEPORTES",ES - M. LALIGA 3 HD
+#EXTINF:-1 tvg-id="M.LaLiga3.es" tvg-name="M. LALIGA 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga3.png" group-title="|ES| DEPORTES",M. LALIGA 3 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505624.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M. LALIGA 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga4.png" group-title="|ES| DEPORTES",ES - M. LALIGA 4 FHD
+#EXTINF:-1 tvg-id="" tvg-name="M. LALIGA 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga4.png" group-title="|ES| DEPORTES",M. LALIGA 4 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718918.m3u8
-#EXTINF:-1 tvg-id="es.LaLiga 123 TV" tvg-name="ES - M. LALIGA 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga4.png" group-title="|ES| DEPORTES",ES - M. LALIGA 4 HD
+#EXTINF:-1 tvg-id="es.LaLiga 123 TV" tvg-name="M. LALIGA 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga4.png" group-title="|ES| DEPORTES",M. LALIGA 4 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505643.m3u8
-#EXTINF:-1 tvg-id="M.LaLiga5.es" tvg-name="ES - M. LALIGA 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga5.png" group-title="|ES| DEPORTES",ES - M. LALIGA 5 HD
+#EXTINF:-1 tvg-id="M.LaLiga5.es" tvg-name="M. LALIGA 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga5.png" group-title="|ES| DEPORTES",M. LALIGA 5 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505625.m3u8
-#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="ES - M. DEPORTES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes.png" group-title="|ES| DEPORTES",ES - M. DEPORTES HD
+#EXTINF:-1 tvg-id="MovistarDeportes.es" tvg-name="M. DEPORTES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes.png" group-title="|ES| DEPORTES",M. DEPORTES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505635.m3u8
-#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="ES - M. DEPORTES 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes1.png" group-title="|ES| DEPORTES",ES - M. DEPORTES 1 HD
+#EXTINF:-1 tvg-id="MDeportes1.es" tvg-name="M. DEPORTES 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes1.png" group-title="|ES| DEPORTES",M. DEPORTES 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505636.m3u8
-#EXTINF:-1 tvg-id="MDeportes2.es" tvg-name="ES - M. DEPORTES 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes2.png" group-title="|ES| DEPORTES",ES - M. DEPORTES 2 HD
+#EXTINF:-1 tvg-id="MDeportes2.es" tvg-name="M. DEPORTES 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes2.png" group-title="|ES| DEPORTES",M. DEPORTES 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505637.m3u8
-#EXTINF:-1 tvg-id="MDeportes3.es" tvg-name="ES - M. DEPORTES 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes3.png" group-title="|ES| DEPORTES",ES - M. DEPORTES 3 HD
+#EXTINF:-1 tvg-id="MDeportes3.es" tvg-name="M. DEPORTES 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes3.png" group-title="|ES| DEPORTES",M. DEPORTES 3 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505638.m3u8
-#EXTINF:-1 tvg-id="MDeportes4.es" tvg-name="ES - M. DEPORTES 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes4.png" group-title="|ES| DEPORTES",ES - M. DEPORTES 4 HD
+#EXTINF:-1 tvg-id="MDeportes4.es" tvg-name="M. DEPORTES 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes4.png" group-title="|ES| DEPORTES",M. DEPORTES 4 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505639.m3u8
-#EXTINF:-1 tvg-id="MDeportes5.es" tvg-name="ES - M. DEPORTES 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes5.png" group-title="|ES| DEPORTES",ES - M. DEPORTES 5 HD
+#EXTINF:-1 tvg-id="MDeportes5.es" tvg-name="M. DEPORTES 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes5.png" group-title="|ES| DEPORTES",M. DEPORTES 5 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505640.m3u8
-#EXTINF:-1 tvg-id="MDeportes6.es" tvg-name="ES - M. DEPORTES 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes6.png" group-title="|ES| DEPORTES",ES - M. DEPORTES 6 HD
+#EXTINF:-1 tvg-id="MDeportes6.es" tvg-name="M. DEPORTES 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes6.png" group-title="|ES| DEPORTES",M. DEPORTES 6 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505641.m3u8
-#EXTINF:-1 tvg-id="MDeportes7.es" tvg-name="ES - M. DEPORTES 7 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes7.png" group-title="|ES| DEPORTES",ES - M. DEPORTES 7 HD
+#EXTINF:-1 tvg-id="MDeportes7.es" tvg-name="M. DEPORTES 7 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mdeportes7.png" group-title="|ES| DEPORTES",M. DEPORTES 7 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES ◉
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES ◉
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/728734.m3u8
-#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES - M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="M.LCAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505650.m3u8
-#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES - M.LCAMPEONES HD (BK)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD (BK)
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="M.LCAMPEONES HD (BK)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD (BK)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/870963.m3u8
-#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="ES - M.LCAMPEONES HD (BK2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD (BK2)
+#EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="M.LCAMPEONES HD (BK2)" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD (BK2)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/870962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES HD◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES HD◉
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES HD◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES HD◉
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/728733.m3u8
-#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="ES - M.LCAMPEONES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES FHD
+#EXTINF:-1 tvg-id="LigaDeCampeones.es" tvg-name="M.LCAMPEONES FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718883.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES UHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES UHD ◉
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES UHD ◉" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeones.png" group-title="|ES| DEPORTES",M.LCAMPEONES UHD ◉
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/728732.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeones1.es" tvg-name="ES - M.LCAMPEONES 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 1 HD
+#EXTINF:-1 tvg-id="LigadeCampeones1.es" tvg-name="M.LCAMPEONES 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",M.LCAMPEONES 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505651.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeones1.es" tvg-name="ES - M.LCAMPEONES 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon1.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 1 FHD
+#EXTINF:-1 tvg-id="LigadeCampeones1.es" tvg-name="M.LCAMPEONES 1 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon1.png" group-title="|ES| DEPORTES",M.LCAMPEONES 1 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718884.m3u8
-#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES - M.LCAMPEONES 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 2 HD
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M.LCAMPEONES 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",M.LCAMPEONES 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505653.m3u8
-#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="ES - M.LCAMPEONES 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 2 FHD
+#EXTINF:-1 tvg-id="LigaDeCampeones2.es" tvg-name="M.LCAMPEONES 2 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon2.png" group-title="|ES| DEPORTES",M.LCAMPEONES 2 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718885.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeones3.es" tvg-name="ES - M.LCAMPEONES 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon3.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 3 HD
+#EXTINF:-1 tvg-id="LigadeCampeones3.es" tvg-name="M.LCAMPEONES 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon3.png" group-title="|ES| DEPORTES",M.LCAMPEONES 3 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505654.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeones3.es" tvg-name="ES - M.LCAMPEONES 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon3.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 3 FHD
+#EXTINF:-1 tvg-id="LigadeCampeones3.es" tvg-name="M.LCAMPEONES 3 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon3.png" group-title="|ES| DEPORTES",M.LCAMPEONES 3 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718886.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeones4.es" tvg-name="ES - M.LCAMPEONES 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon4.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 4 HD
+#EXTINF:-1 tvg-id="LigadeCampeones4.es" tvg-name="M.LCAMPEONES 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon4.png" group-title="|ES| DEPORTES",M.LCAMPEONES 4 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505655.m3u8
-#EXTINF:-1 tvg-id="LigadeCampeones4.es" tvg-name="ES - M.LCAMPEONES 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon5.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 4 FHD
+#EXTINF:-1 tvg-id="LigadeCampeones4.es" tvg-name="M.LCAMPEONES 4 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon5.png" group-title="|ES| DEPORTES",M.LCAMPEONES 4 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718887.m3u8
-#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-name="ES - M.LCAMPEONES 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon5.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 5 HD
+#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-name="M.LCAMPEONES 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon5.png" group-title="|ES| DEPORTES",M.LCAMPEONES 5 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505656.m3u8
-#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-name="ES - M.LCAMPEONES 5 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon5.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 5 FHD
+#EXTINF:-1 tvg-id="M.LigaCampeones5.es" tvg-name="M.LCAMPEONES 5 FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon5.png" group-title="|ES| DEPORTES",M.LCAMPEONES 5 FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718888.m3u8
-#EXTINF:-1 tvg-id="MLigadeCampeones6.es" tvg-name="ES - M.LCAMPEONES 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon6.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 6 HD
+#EXTINF:-1 tvg-id="MLigadeCampeones6.es" tvg-name="M.LCAMPEONES 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon6.png" group-title="|ES| DEPORTES",M.LCAMPEONES 6 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505657.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES 6 SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon6.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 6 SD
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 6 SD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon6.png" group-title="|ES| DEPORTES",M.LCAMPEONES 6 SD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718907.m3u8
-#EXTINF:-1 tvg-id="MLigadeCampeones7.es" tvg-name="ES - M.LCAMPEONES 7 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon7.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 7 HD
+#EXTINF:-1 tvg-id="MLigadeCampeones7.es" tvg-name="M.LCAMPEONES 7 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/mlcampeon7.png" group-title="|ES| DEPORTES",M.LCAMPEONES 7 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505658.m3u8
-#EXTINF:-1 tvg-id="MLigadeCampeones8.es" tvg-name="ES - M.LCAMPEONES 8 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 8 HD
+#EXTINF:-1 tvg-id="MLigadeCampeones8.es" tvg-name="M.LCAMPEONES 8 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",M.LCAMPEONES 8 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505659.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES 9 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 9 HD
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 9 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",M.LCAMPEONES 9 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/710620.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES 10 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 10 HD
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 10 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",M.LCAMPEONES 10 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/710619.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES 11 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 11 HD
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 11 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",M.LCAMPEONES 11 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/710618.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - M.LCAMPEONES 12 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",ES - M.LCAMPEONES 12 HD
+#EXTINF:-1 tvg-id="" tvg-name="M.LCAMPEONES 12 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/M-LCAMPEONES.png" group-title="|ES| DEPORTES",M.LCAMPEONES 12 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/710617.m3u8
-#EXTINF:-1 tvg-id="Vamos.es" tvg-name="ES - #VAMOS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/vamos.png" group-title="|ES| DEPORTES",ES - #VAMOS HD
+#EXTINF:-1 tvg-id="Vamos.es" tvg-name="#VAMOS HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/vamos.png" group-title="|ES| DEPORTES",#VAMOS HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505632.m3u8
-#EXTINF:-1 tvg-id="ES| EUROSPORT 1 HD" tvg-name="ES - EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="|ES| DEPORTES",ES - EUROSPORT 1 HD
+#EXTINF:-1 tvg-id="ES| EUROSPORT 1 HD" tvg-name="EUROSPORT 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport1hd.png" group-title="|ES| DEPORTES",EUROSPORT 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505633.m3u8
-#EXTINF:-1 tvg-id="es.Eurosport 2" tvg-name="ES - EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2.png" group-title="|ES| DEPORTES",ES - EUROSPORT 2 HD
+#EXTINF:-1 tvg-id="es.Eurosport 2" tvg-name="EUROSPORT 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/eurosport2.png" group-title="|ES| DEPORTES",EUROSPORT 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505634.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - EUROSPORT 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png" group-title="|ES| DEPORTES",ES - EUROSPORT 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 3 HD" tvg-logo="http://logo.protv.cc/picons/logos/logos/EURO-SPORT.png" group-title="|ES| DEPORTES",EUROSPORT 3 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/1136606.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="ES - LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LALIGATV-BAR-HD.jpg" group-title="|ES| DEPORTES",ES - LALIGATV BAR HD
+#EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/LALIGATV-BAR-HD.jpg" group-title="|ES| DEPORTES",LALIGATV BAR HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505619.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar1.es" tvg-name="ES - LALIGATVBAR1 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",ES - LALIGATVBAR1 [LIVEEVENT]
+#EXTINF:-1 tvg-id="LaLigaTVBar1.es" tvg-name="LALIGATVBAR1 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",LALIGATVBAR1 [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505644.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar2.es" tvg-name="ES - LALIGATVBAR2 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",ES - LALIGATVBAR2 [LIVEEVENT]
+#EXTINF:-1 tvg-id="LaLigaTVBar2.es" tvg-name="LALIGATVBAR2 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",LALIGATVBAR2 [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505645.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar3.es" tvg-name="ES - LALIGATVBAR3 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",ES - LALIGATVBAR3 [LIVEEVENT]
+#EXTINF:-1 tvg-id="LaLigaTVBar3.es" tvg-name="LALIGATVBAR3 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",LALIGATVBAR3 [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505646.m3u8
-#EXTINF:-1 tvg-id="LaLigaTVBar4.es" tvg-name="ES - LALIGATVBAR4 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",ES - LALIGATVBAR4 [LIVEEVENT]
+#EXTINF:-1 tvg-id="LaLigaTVBar4.es" tvg-name="LALIGATVBAR4 [LIVEEVENT]" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" group-title="|ES| DEPORTES",LALIGATVBAR4 [LIVEEVENT]
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505647.m3u8
-#EXTINF:-1 tvg-id="es.MultiDeporte" tvg-name="ES - MULTIDEPORTE" tvg-logo="http://logo.protv.cc/picons-dino/logos/multideporte.png" group-title="|ES| DEPORTES",ES - MULTIDEPORTE
+#EXTINF:-1 tvg-id="es.MultiDeporte" tvg-name="MULTIDEPORTE" tvg-logo="http://logo.protv.cc/picons-dino/logos/multideporte.png" group-title="|ES| DEPORTES",MULTIDEPORTE
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505648.m3u8
-#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="ES - TELEDEPORTE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/teledeporte.png" group-title="|ES| DEPORTES",ES - TELEDEPORTE HD
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="TELEDEPORTE HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/teledeporte.png" group-title="|ES| DEPORTES",TELEDEPORTE HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505660.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - HORSE TV" tvg-logo="http://logo.protv.cc/picons/logos/horsetv.png" group-title="|ES| DEPORTES",ES - HORSE TV
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV" tvg-logo="http://logo.protv.cc/picons/logos/horsetv.png" group-title="|ES| DEPORTES",HORSE TV
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/858230.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - ONETORO  HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/mundotoro.png" group-title="|ES| DEPORTES",ES - ONETORO  HD
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO  HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/mundotoro.png" group-title="|ES| DEPORTES",ONETORO  HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505661.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - ONETORO HD (bk)" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/mundotoro.png" group-title="|ES| DEPORTES",ES - ONETORO HD (bk)
+#EXTINF:-1 tvg-id="" tvg-name="ONETORO HD (bk)" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/mundotoro.png" group-title="|ES| DEPORTES",ONETORO HD (bk)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/879882.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TOROLE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TOROLE.png" group-title="|ES| DEPORTES",ES - TOROLE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="TOROLE TV HD" tvg-logo="http://logo.protv.cc/picons/logos/ASIA/TOROLE.png" group-title="|ES| DEPORTES",TOROLE TV HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/876580.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - EL TORO TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EL-TORO.jpeg" group-title="|ES| DEPORTES",ES - EL TORO TV HD
+#EXTINF:-1 tvg-id="" tvg-name="EL TORO TV HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/EL-TORO.jpeg" group-title="|ES| DEPORTES",EL TORO TV HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/721112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - BETIS FHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/BETIS.png" group-title="|ES| DEPORTES",ES - BETIS FHD
+#EXTINF:-1 tvg-id="" tvg-name="BETIS FHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/BETIS.png" group-title="|ES| DEPORTES",BETIS FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/807748.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - SEVILLA FHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/SEVILLA.png" group-title="|ES| DEPORTES",ES - SEVILLA FHD
+#EXTINF:-1 tvg-id="" tvg-name="SEVILLA FHD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN/SEVILLA.png" group-title="|ES| DEPORTES",SEVILLA FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/807747.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 1" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 1
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 1" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 1
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788397.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 2" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 2
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 2" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 2
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788398.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 3" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 3
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 3" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 3
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788399.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 4" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 4
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 4" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 4
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788400.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 5" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 5
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 5" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 5
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788401.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 6" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 6
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 6" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 6
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788402.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 7" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 7
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 7" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 7
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788403.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 8" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 8
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 8" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 8
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788404.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 9" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 9
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 9" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 9
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788405.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 10" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 10
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 10" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 10
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788406.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - TUDN XTRA 11" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",ES - TUDN XTRA 11
+#EXTINF:-1 tvg-id="" tvg-name="TUDN XTRA 11" tvg-logo="http://logo.protv.cc/picons/logos/TUDN-XTRA.jpg" group-title="|ES| DEPORTES",TUDN XTRA 11
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/788407.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="##### ESP DAZN #####" tvg-logo="https://img.freeflagicons.com/thumb/round_icon/spain/spain_640.png" group-title="|ES| DEPORTES",##### ESP DAZN #####
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505662.m3u8
-#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="ES - DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1.png" group-title="|ES| DEPORTES",ES - DAZN 1 HD
+#EXTINF:-1 tvg-id="DAZN1.es" tvg-name="DAZN 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1.png" group-title="|ES| DEPORTES",DAZN 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505665.m3u8
-#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="ES - DAZN 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn2.png" group-title="|ES| DEPORTES",ES - DAZN 2 HD
+#EXTINF:-1 tvg-id="DAZN2.es" tvg-name="DAZN 2 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn2.png" group-title="|ES| DEPORTES",DAZN 2 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505666.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",ES - DAZN 3 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 3 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",DAZN 3 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",ES - DAZN 4 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 4 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",DAZN 4 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",ES - DAZN 5 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 5 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",DAZN 5 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505669.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",ES - DAZN 6 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN 6 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn.png" group-title="|ES| DEPORTES",DAZN 6 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505670.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN FORMULA1 4K" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-FORMULA-1.png" group-title="|ES| DEPORTES",ES - DAZN FORMULA1 4K
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FORMULA1 4K" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-FORMULA-1.png" group-title="|ES| DEPORTES",DAZN FORMULA1 4K
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/754448.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ES - DAZN FORMULA1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1.png" group-title="|ES| DEPORTES",ES - DAZN FORMULA1 HD
+#EXTINF:-1 tvg-id="" tvg-name="DAZN FORMULA1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/dazn1.png" group-title="|ES| DEPORTES",DAZN FORMULA1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/554553.m3u8
