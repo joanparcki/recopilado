@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS+ HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOVISTAR-PLUS.png",Movistar + HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/951390.m3u8
 #EXTINF:-1 tvg-id="MovistarLaLigaUHD.es" tvg-name="Movistar LALIGA HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png",Movistar LALIGA HD
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505618.m3u8
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/505618.m3u8
 #EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="Movistar LALIGA FHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png",Movistar LALIGA FHD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/718917.m3u8
 #EXTINF:-1 tvg-id="MovistarLaLigaUHD.es" tvg-name="Movistar LALIGA HD (BK-1)" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png",Movistar LALIGA HD (BK-1)
@@ -20,11 +20,11 @@ http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612209.m3u8
 #EXTINF:-1 tvg-id="MovistarLaLiga1.es" tvg-name="Movistar LALIGA 1 HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaliga2.png" ,Movistar LALIGA 1 HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612211.m3u8
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA SD
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760762.m3u8
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760762.m3u8
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA FHD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA FHD
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760761.m3u8
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760761.m3u8
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA HD
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760760.m3u8
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760760.m3u8
 #EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="Movistar  LIGA DE CAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/m LIGA DE CAMPEONES.png",Movistar  LIGA DE CAMPEONES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505650.m3u8
 #EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="Movistar  LIGA DE CAMPEONES HD (BK)" tvg-logo="http://logo.protv.cc/picons-dino/logos/m LIGA DE CAMPEONES.png",Movistar  LIGA DE CAMPEONES HD (BK)
