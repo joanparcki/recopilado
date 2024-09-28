@@ -13,6 +13,10 @@ http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/864080.m3u8
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612206.m3u8
 #EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="Movistar LALIGA HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/movistarlaligatv.png" ,Movistar LALIGA HEVC
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612207.m3u8
+#EXTINF:-1 tvg-id="LaLigaTV.es" tvg-name="ES| M.LALIGA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga.png",ES| M.LALIGA HEVC
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/119004
+#EXTINF:-1 tvg-id="MLaLiga.es" tvg-name="ES| M.LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/Movistar-LaLiga.png",ES| M.LALIGA HD
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/107564
 #EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="LALIGATV BAR HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" ,LALIGATV BAR HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/612208.m3u8
 #EXTINF:-1 tvg-id="LaLigaTVBar.es" tvg-name="LALIGA TV BAR HEVC" tvg-logo="http://logo.protv.cc/picons-dino/logos/laligatvbar.png" ,LALIGA TV BAR HEVC
@@ -25,6 +29,18 @@ http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760762.m3u8
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760761.m3u8
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760760.m3u8
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA 4K" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-LALIGA.png" ,ES| DAZN LALIGA 4K
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/986639
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LALIGA HEVC" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN-LALIGA.png" ,ES| DAZN LALIGA HEVC
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/1547248
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-LALIGA.png" ,ES| DAZN LALIGA HD
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/986640
+#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES| DAZN LALIGA SD" tvg-logo="http://logo.protv.cc/picons/logos/SPAIN-HICHAM/DAZN-LALIGA.png" ,ES| DAZN LALIGA SD
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/986641
+#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA ᴴᴰ ᵃᵐᶻ" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN-LALIGA.png" ,ES| DAZN LALIGA ᴴᴰ ᵃᵐᶻ
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/1552919
+´#EXTINF:-1 tvg-id="" tvg-name="ES| DAZN LA LIGA RAW ᵃᵐᶻ" tvg-logo="http://logo.protv.cc/picons/logos/logos/DAZN-LALIGA.png",ES| DAZN LALIGA RAW ᵃᵐᶻ
+http://tv.trexiptv.com:80/q5yde9weju/0f81e1213974/1552906
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA (2)" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA HD
 http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfBP-i6Q5EiWZH1nI2Dk_8EE
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA (3)" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA HD
