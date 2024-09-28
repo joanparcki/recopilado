@@ -29,8 +29,6 @@ http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/760760.m3u8
 http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfBP-i6Q5EiWZH1nI2Dk_8EE
 #EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA (3)" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA HD
 http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfEVxpF5U2nCNiEcWB8AOmgc
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="DAZN LALIGA HD" tvg-logo="http://logo.protv.cc/picons/logos/DAZN-LALIGA.png",DAZN LALIGA HD
-
 #EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="Movistar  LIGA DE CAMPEONES HD" tvg-logo="http://logo.protv.cc/picons-dino/logos/m LIGA DE CAMPEONES.png",Movistar  LIGA DE CAMPEONES HD
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/505650.m3u8
 #EXTINF:-1 tvg-id="MLigaCampeones.es" tvg-name="Movistar  LIGA DE CAMPEONES HD (BK)" tvg-logo="http://logo.protv.cc/picons-dino/logos/m LIGA DE CAMPEONES.png",Movistar  LIGA DE CAMPEONES HD (BK)
