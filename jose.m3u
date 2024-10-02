@@ -1,11 +1,60 @@
-EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR PLUS+ HD" tvg-logo="http://logo.protv.cc/picons/logos/EUROPE/MOVISTAR-PLUS.png",Movistar + HD
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263ade/951390.m3u8
-#EXTINF:-1 tvg-ID="M+ LaLiga TV HD" tvg-name="ES (O) M LALIGATV" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" , M LALIGATV
-http://line.loym.cc:80/91799850636/e68ppzclb8/1235333
-#EXTINF:-1 tvg-ID="mlaliga.es" tvg-name="ES- M LA LIGA SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20LaLiga%20TV%20HD.png" ,Movistar LA LIGA SD
-http://line.loym.cc:80/91799850636/e68ppzclb8/415875
-EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES- M LIGA DE CAMPEONES  SD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,ES- M L CAMPEONES  SD
-http://line.loym.cc:80/91799850636/e68ppzclb8/50242
-#EXTINF:-1 tvg-ID="mligadecampeones.es" tvg-name="ES- M LIGA DE CAMPEONES  HD" tvg-logo="https://raw.githubusercontent.com/davidmuma/picons_dobleM/master/icon/M%2B%20Liga%20de%20Campeones%20HD.png" ,ES- M L CAMPEONES  HD
-http://line.loym.cc:80/91799850636/e68ppzclb8/65873
+#EXTINF:-1,ES - MOVISTAR PLUS+ HD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/951390
+#EXTINF:-1,ES - DAZN LALIGA SD
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/760762
+#EXTINF:-1,ES - DAZN LALIGA FHD
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/760761
+#EXTINF:-1,ES - DAZN LALIGA HD
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/760760
+#EXTINF:-1,ES - DAZN LALIGA SD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/760762
+#EXTINF:-1,ES - DAZN LALIGA FHD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/760761
+#EXTINF:-1,ES - DAZN LALIGA HD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/760760
+#EXTINF:-1,DAZN LA LIGA ESPAÑA FHD
+http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfBP-i6Q5EiWZH1nI2Dk_8EE
+#EXTINF:-1,DAZN LA LIGA 2 ESPAÑA FHD
+http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfEVxpF5U2nCNiEcWB8AOmgc
+#EXTINF:-1,ES - M. LALIGA HD (BK-1)
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/864079
+#EXTINF:-1,ES - M. LALIGA HD (BK-2)
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/864080
+#EXTINF:-1,ES - M. LALIGA HD (BK-3)
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/864079
+#EXTINF:-1,ES - M. LALIGA HD (BK-4)
+http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfH13nEExGXUfJIQlfgJ0chk
+#EXTINF:-1,ES - M. LALIGA HD (BK-5)
+http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfNdYEYz0J55j3XcSb-CBhnI
+#EXTINF:-1,ES - M. LALIGA HD (BK-6)
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/864080
+#EXTINF:-1,ES - M. LALIGA HD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/505618
+#EXTINF:-1,ES - M. LALIGA FHD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/718917
+#EXTINF:-1,ES - M. LALIGA HD
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612206
+#EXTINF:-1,ES - M. LALIGA HEVC
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612207
+#EXTINF:-1,ES - LALIGATV BAR HD
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612208
+#EXTINF:-1,ES - LALIGA TV BAR HEVC
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612209
+#EXTINF:-1,LIGA DE CAMPEONES por M+ FHD
+http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfPp6v9-XwsnNTmuf5sDF8jY
+#EXTINF:-1,LIGA DE CAMPEONES por M+ FHD
+http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfJgt0A9K8u-2MW_tApd3630
+#EXTINF:-1,ES - M.LCAMPEONES HD
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/505650
+#EXTINF:-1,ES - M.LCAMPEONES HD (BK)
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/870963
+#EXTINF:-1,ES - M.LCAMPEONES HD (BK2)
+http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/870962
+#EXTINF:-1,ES - M.LCAMPEONES HD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/505650
+#EXTINF:-1,ES - M.Liga CAMPEONES HD (BK)
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/870963
+#EXTINF:-1,ES - M.Liga CAMPEONES HD (BK2)
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/870962
+#EXTINF:-1,ES - M.LCAMPEONES FHD
+http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/718883
