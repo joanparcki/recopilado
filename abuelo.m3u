@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, MOVISTAR+ (1)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/951390.m3u8
+#EXTINF:-1,M.COPA DEL REY 
+http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/811125.m3u8
 #EXTINF:-1, DAZN LALIGA (1)
 http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/760762.m3u8
 #EXTINF:-1, DAZN LALIGA (2)
