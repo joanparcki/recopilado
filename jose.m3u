@@ -1,61 +1,31 @@
 #EXTM3U
-#EXTINF:-1,ES - MOVISTAR PLUS+ HD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/951390
-#EXTINF:-1,ES - DAZN LALIGA SD
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/760762
-#EXTINF:-1,ES - DAZN LALIGA FHD
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/760761
-#EXTINF:-1,ES - DAZN LALIGA HD
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/760760
-#EXTINF:-1,ES - DAZN LALIGA SD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/760762
-#EXTINF:-1,ES - DAZN LALIGA FHD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/760761
-#EXTINF:-1,ES - DAZN LALIGA HD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/760760
-#EXTINF:-1,DAZN LA LIGA ESPAÑA FHD
-http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfBP-i6Q5EiWZH1nI2Dk_8EE
-#EXTINF:-1,DAZN LA LIGA 2 ESPAÑA FHD
-http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfEVxpF5U2nCNiEcWB8AOmgc
-#EXTINF:-1,ES - M. LALIGA HD (BK-1)
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/864079
-#EXTINF:-1,ES - M. LALIGA HD (BK-2)
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/864080
-#EXTINF:-1,ES - M. LALIGA HD (BK-3)
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/864079
-#EXTINF:-1,ES - M. LALIGA HD (BK-4)
-http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfH13nEExGXUfJIQlfgJ0chk
-#EXTINF:-1,ES - M. LALIGA HD (BK-5)
-http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfNdYEYz0J55j3XcSb-CBhnI
-#EXTINF:-1,ES - M. LALIGA HD (BK-6)
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/864080
-#EXTINF:-1,ES - M. LALIGA HD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/505618
-#EXTINF:-1,ES - M. LALIGA FHD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/718917
-#EXTINF:-1,ES - M. LALIGA HD
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612206
-#EXTINF:-1,ES - M. LALIGA HEVC
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612207
-#EXTINF:-1,ES - LALIGATV BAR HD
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612208
-#EXTINF:-1,ES - LALIGA TV BAR HEVC
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/612209
-#EXTINF:-1,LIGA DE CAMPEONES por M+ FHD
-http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfPp6v9-XwsnNTmuf5sDF8jY
-#EXTINF:-1,LIGA DE CAMPEONES por M+ FHD
-http://1901011995.lat:25461/play/8PqoP1uDrf10e-ApdkdhfJgt0A9K8u-2MW_tApd3630
-#EXTINF:-1,ES - M.LCAMPEONES HD
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/505650
-#EXTINF:-1,ES - M.LCAMPEONES HD (BK)
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/870963
-#EXTINF:-1,ES - M.LCAMPEONES HD (BK2)
-http://hamhg.store:80/0a99d436f0/ad1ec2e1adae/870962
-#EXTINF:-1,ES - M.LCAMPEONES HD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/505650
-#EXTINF:-1,ES - M.Liga CAMPEONES HD (BK)
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/870963
-#EXTINF:-1,ES - M.Liga CAMPEONES HD (BK2)
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/870962
-#EXTINF:-1,ES - M.LCAMPEONES FHD
-http://tv.woolab.cc:80/66dc96c35fd00/6d094754a1/718883
+#EXTINF:-1, MOVISTAR+ (1)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/951390.m3u8
+#EXTINF:-1, DAZN LALIGA (1)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760762.m3u8
+#EXTINF:-1, DAZN LALIGA (2)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760761.m3u8
+#EXTINF:-1, DAZN LALIGA (3)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760760.m3u8
+#EXTINF:-1, M. LALIGA HD (1)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/864079.m3u8
+#EXTINF:-1, M. LALIGA HD (2)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/864080.m3u8
+#EXTINF:-1, M. LALIGA HD (3)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/505618.m3u8
+#EXTINF:-1, M. LALIGA FHD (4)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/718917.m3u8
+#EXTINF:-1, M.LCAMPEONES (1)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/728734.m3u8
+#EXTINF:-1, M.LCAMPEONES (2)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/505650.m3u8
+#EXTINF:-1, M.LCAMPEONES (3)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/870963.m3u8
+#EXTINF:-1, M.LCAMPEONES (4)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/870962.m3u8
+#EXTINF:-1, M.LCAMPEONES (5)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/728733.m3u8
+#EXTINF:-1, M.LCAMPEONES (6)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/718883.m3u8
+#EXTINF:-1, M.LCAMPEONES (7)
+http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/728732.m3u8
