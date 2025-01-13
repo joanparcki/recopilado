@@ -1,63 +1,41 @@
 #EXTM3U
-#EXTINF:-1, MOVISTAR+ (1)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/951390.m3u8
-#EXTINF:-1,M.COPA DEL REY 
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/811125.m3u8
-#EXTINF:-1, DAZN LALIGA (1)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/760762.m3u8
-#EXTINF:-1, DAZN LALIGA (2)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/760761.m3u8
-#EXTINF:-1, DAZN LALIGA (3)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/760760.m3u8
-#EXTINF:-1, M. LALIGA HD (1)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/864079.m3u8
-#EXTINF:-1, M. LALIGA HD (2)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/864080.m3u8
-#EXTINF:-1, M. LALIGA HD (3)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/505618.m3u8
-#EXTINF:-1, M. LALIGA FHD (4)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/718917.m3u8
-#EXTINF:-1, M.LCAMPEONES (1)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/728734.m3u8
-#EXTINF:-1, M.LCAMPEONES (2)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/505650.m3u8
-#EXTINF:-1, M.LCAMPEONES (3)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/870963.m3u8
-#EXTINF:-1, M.LCAMPEONES (4)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/870962.m3u8
-#EXTINF:-1, M.LCAMPEONES (5)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/728733.m3u8
-#EXTINF:-1, M.LCAMPEONES (6)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/718883.m3u8
-#EXTINF:-1, M.LCAMPEONES (7)
-http://tv.woolab.cc:80/live/66c53ddfed448/1c99263555/728732.m3u8
-#EXTINF:-1, MOVISTAR+
-http://hamHG.store/live/87f41590cf/2a9fb1cc99f3/951390.m3u8
-#EXTINF:-1,ES - DAZN LALIGA SD
-http://line.dino-ott.ru/live/87f41590cf/2a9fb1cc99f3/760762.m3u8
-#EXTINF:-1,ES - DAZN LALIGA FHD
-http://line.dino.ws/live/87f41590cf/2a9fb1cc99f3/760761.m3u8
-#EXTINF:-1,ES - DAZN LALIGA HD
-http://dino34.linkott.com:80/live/87f41590cf/2a9fb1cc99f3/760760.m3u8
-#EXTINF:-1,ES - M. LALIGA HD (BK-1)
-http://dino35.linkott.com:80/live/87f41590cf/2a9fb1cc99f3/864079.m3u8
-#EXTINF:-1,ES - M. LALIGA HD (BK-2)
-http://83601-flip.cdn-o2.me/live/87f41590cf/2a9fb1cc99f3/864080.m3u8
-#EXTINF:-1,ES - M. LALIGA HD
-https://b5.dinott.com/live/87f41590cf/2a9fb1cc99f3/505618.m3u8
-#EXTINF:-1,ES - M. LALIGA FHD
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/718917.m3u8
-#EXTINF:-1,ES - M.LCAMPEONES ◉
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/728734.m3u8
-#EXTINF:-1,ES - M.LCAMPEONES HD
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/505650.m3u8
-#EXTINF:-1,ES - M.LCAMPEONES HD (BK)
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/870963.m3u8
-#EXTINF:-1,ES - M.LCAMPEONES HD (BK2)
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/870962.m3u8
-#EXTINF:-1,ES - M.LCAMPEONES HD◉
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/728733.m3u8
-#EXTINF:-1,ES - M.LCAMPEONES FHD
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/718883.m3u8
-#EXTINF:-1,ES - M.LCAMPEONES UHD ◉
-http://line.dino.ws:80/live/87f41590cf/2a9fb1cc99f3/728732.m3u8
+#EXTINF:-1,ES: MOVISTAR M+ HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/781501
+#EXTINF:-1,ES: MOVISTAR M+ FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/819117
+#EXTINF:-1,|ES| M+ La Liga FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920440
+#EXTINF:-1, MOVISTAR M+ HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/781501
+#EXTINF:-1, MOVISTAR M+ FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/819117
+#EXTINF:-1, M+ La Liga FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920440
+#EXTINF:-1, M+ La Liga HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920441
+#EXTINF:-1, M+ LA LIGA HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/868734
+#EXTINF:-1, M+ LA LIGA FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/819106
+#EXTINF:-1, DAZN LaLiga
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920446
+#EXTINF:-1, DAZN LA LIGA HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/592999
+#EXTINF:-1, DAZN LA LIGA FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/819134
+#EXTINF:-1, DAZN LaLiga 2
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920447
+#EXTINF:-1, M+ LCampeons HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920469
+#EXTINF:-1, M+ LCampeons 1
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920470
+#EXTINF:-1, La Liga Bar TV HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/920474
+#EXTINF:-1, LA LIGA TV BAR HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/844291
+#EXTINF:-1, LA LIGA TV BAR FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/844290
+#EXTINF:-1, COPA DEL REY HD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/962491
+#EXTINF:-1, COPA DEL REY FHD
+http://fr.titaniumsat.pro:80/34938517395844/81125470066759/962490
