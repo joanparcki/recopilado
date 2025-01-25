@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA SD" tvg-logo="http://103.176.90.118/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA SD
-http://line.din-ott.com:80/2aabf96dc7/19919b6b1f5a/760762
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA FHD" tvg-logo="http://103.176.90.118/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA FHD
-http://line.din-ott.com:80/2aabf96dc7/19919b6b1f5a/760761
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA HD" tvg-logo="http://103.176.90.118/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA HD
-http://line.din-ott.com/:80/2aabf96dc7/19919b6b1f5a/760760
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA SD" tvg-logo="http://103.176.90.118/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA SD
-http://11328-valve.ott-di.com:80/2aabf96dc7/19919b6b1f5a/760762
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA FHD" tvg-logo="http://103.176.90.118/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA FHD
-http://11328-valve.ott-di.com:80/2aabf96dc7/19919b6b1f5a/760761
-#EXTINF:-1 tvg-id="DaznLaLiga.es" tvg-name="ES - DAZN LALIGA HD" tvg-logo="http://103.176.90.118/picons/logos/DAZN-LALIGA.png" group-title="|ES| DEPORTES",ES - DAZN LALIGA HD
-http://11328-valve.ott-di.com:80/2aabf96dc7/19919b6b1f5a/760760
 #EXTINF:-1,ES: MOVISTAR M+ HD
 http://fr.titaniumsat.pro:80/34938517395844/81125470066759/781501
 #EXTINF:-1,ES: MOVISTAR M+ FHD
