@@ -1,31 +1,21 @@
 #EXTM3U
-#EXTINF:-1, MOVISTAR+ (1)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/951390.m3u8
-#EXTINF:-1, DAZN LALIGA (1)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760762.m3u8
-#EXTINF:-1, DAZN LALIGA (2)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760761.m3u8
-#EXTINF:-1, DAZN LALIGA (3)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/760760.m3u8
-#EXTINF:-1, M. LALIGA HD (1)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/864079.m3u8
-#EXTINF:-1, M. LALIGA HD (2)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/864080.m3u8
-#EXTINF:-1, M. LALIGA HD (3)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/505618.m3u8
-#EXTINF:-1, M. LALIGA FHD (4)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/718917.m3u8
-#EXTINF:-1, M.LCAMPEONES (1)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/728734.m3u8
-#EXTINF:-1, M.LCAMPEONES (2)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/505650.m3u8
-#EXTINF:-1, M.LCAMPEONES (3)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/870963.m3u8
-#EXTINF:-1, M.LCAMPEONES (4)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/870962.m3u8
-#EXTINF:-1, M.LCAMPEONES (5)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/728733.m3u8
-#EXTINF:-1, M.LCAMPEONES (6)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/718883.m3u8
-#EXTINF:-1, M.LCAMPEONES (7)
-http://tv.woolab.cc:80/live/66dc96c35fd00/6d094754a1/728732.m3u8
+#EXTINF:-1,ES | MOVISTAR PLUS 1 HD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT7rXOUxHZNwxD4jz57uG11GrhbNgOu5q0hhagqJv2r6p/ts
+#EXTINF:-1,ES | M+ LCAMPEONES FHD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT93tRVHAwEkHTOD4neSEUb-ibi_ZsG9Q0fDlFyD82l72/ts
+#EXTINF:-1,ES | M+ LCAMPEONES
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT93tRVHAwEkHTOD4neSEUb_jeEsNUM5DvuB1mRCfCm7A/ts
+#EXTINF:-1,ES | SUPER CUPA HD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT_JiI4lhHM3MgvXi4fJqDuGqX9191nWGqkaLYspoSYBt/ts
+#EXTINF:-1,|ES.SPOR| M+ LALIGA HD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT9aQ33wHkZzyleq7PsXdyOVMi7hMTJKAubJg6018HMmT/ts
+#EXTINF:-1,ES | M+ LALIGA BAR  HD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT93tRVHAwEkHTOD4neSEUb92wC5_eZ0tcPA3FPkYVys6/ts
+#EXTINF:-1,ES | M+ LALIGA BAR  HD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT93tRVHAwEkHTOD4neSEUb92wC5_eZ0tcPA3FPkYVys6/ts
+#EXTINF:-1,|ES.SPOR| DAZN LALIGA HD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT_CuK8SqTYel7Z2C_gCzqV0OFseM6-TeTxF_PcYh1nST/ts
+#EXTINF:-1,ES | M+ LCAMPEONES FHD
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT93tRVHAwEkHTOD4neSEUb-ibi_ZsG9Q0fDlFyD82l72/ts
+#EXTINF:-1,ES | M+ LCAMPEONES
+http://traxiptv.top:80/play/_8miAvu722vbzJ3PpuyPT93tRVHAwEkHTOD4neSEUb_jeEsNUM5DvuB1mRCfCm7A/ts
