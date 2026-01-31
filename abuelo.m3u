@@ -1,35 +1,8 @@
 #EXTM3U
 #EXTINF:-1,ES| Movistar Plus+ FHD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/64168
-#EXTINF:-1,ES| Movistar Plus+ HD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/64169
-#EXTINF:-1,ES MV| M+ LALIGA HDR
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520548
-#EXTINF:-1,ES MV| M+ LALIGA TV FHD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520549
-#EXTINF:-1,ES MV| M+ LALIGA TV HD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520550
-#EXTINF:-1,ES MV| M+ LALIGA TV SD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520551
-#EXTINF:-1,ES| M LALIGA HDR
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520645
-#EXTINF:-1,ES| M LALIGA 2 HDR
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520646
-#EXTINF:-1,ES| M LALIGA FHD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520647
-#EXTINF:-1,ES| M LALIGA HD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520648
-#EXTINF:-1,ES| M LALIGA SD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520649
-#EXTINF:-1,ES MV| DAZN LALIGA FHD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520552
-#EXTINF:-1,ES MV| DAZN LALIGA HD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520553
-#EXTINF:-1,ES MV| DAZN LALIGA SD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520554
-#EXTINF:-1,ES MV| M+ Liga de Campeones FHD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520563
-#EXTINF:-1,ES MV| M+ Liga de Campeones HD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520564
-#EXTINF:-1,ES MV| M+ Liga de Campeones SD
-http://hx1yd6.mixstream4k.top:8080/MIX0644175837468973/b6hr4ymghtpe/1520565
+http://138.201.123.110:8080/hls/canal1.m3u8
+
+
+
+
+
