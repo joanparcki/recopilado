@@ -1,7 +1,8 @@
 #EXTM3U
-#EXTINF:-1,ES| Movistar Plus+ FHD
-http://138.201.123.110:8080/hls/canal1.m3u8
-
+#EXTINF:-1,ES| Movistar Laliga
+http://138.201.123.110:8080/hls/canal1/index.m3u8
+#EXTINF:-1,ES| Dazn Laliga
+http://138.201.123.110:8080/hls/canal2/index.m3u8
 
 
 
